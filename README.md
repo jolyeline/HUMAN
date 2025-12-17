@@ -23,41 +23,21 @@ This repository contains scripts and datasets for collecting, parsing, classifyi
 ---
 
 ### 📰 News
-
-- `/news/DATA/`  
-  Parsed and classified CSV files.
-- `/news/SCRIPTS/`  
   Jupyter notebooks for parsing, classifying, annotating, and analysing news data.
 
 ---
 
 ### 🗳️ Elections
-
-- `/elections/DATA/`  
-  Party programmes and parsed, classified, and extracted relevant sections.
-- `/elections/SCRIPTS/`  
   Jupyter notebooks for parsing PDFs, classifying text, and analysing election materials.
 
 ---
 
-### 🏛️ Tweede Kamer
-
-- `/tweede_kamer/DATA/`  
-  - Policy notes (`beleidsnotas`)  
-  - Plenary session transcripts (`plenaire_verslagen`)  
-  - Parliamentary documents (`vergaderstukken`)  
-  - Combined Tweede Kamer CSV dataset  
-  All data are parsed, classified, and filtered for relevant sections.
-- `/tweede_kamer/SCRIPTS/`  
+### 🏛️ Tweede Kamer 
   Jupyter notebooks for parsing documents, combining datasets, classification, and analysis.
 
 ---
 
 ### 🏢 Corp Blogs
-
-- `/corp_blogs/DATA/`  
-  Parsed, classified, and extracted relevant blog sections.
-- `/corp_blogs/SCRIPTS/`  
   Jupyter notebooks for parsing, classification, and analysis of corporate blog data.
 
 ---
