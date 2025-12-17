@@ -32,12 +32,12 @@ This repository contains scripts and datasets for collecting, parsing, classifyi
 
 ---
 
-### 🏛️ Tweede Kamer 
+### 🏛️ tweede_kamer 
   Jupyter notebooks for parsing documents, combining datasets, classification, and analysis.
 
 ---
 
-### 🏢 Corp Blogs
+### 🏢 corp_blogs
   Jupyter notebooks for parsing, classification, and analysis of corporate blog data.
 
 ---
