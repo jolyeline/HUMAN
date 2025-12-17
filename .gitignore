@@ -1,0 +1,75 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# Jupyter autosaves
+*/.ipynb_checkpoints/*
+
+
+# =========================
+# Models & embeddings
+# =========================
+# Trained models, checkpoints, embeddings
+models/
+checkpoints/
+embeddings/
+*.bin
+*.pt
+*.pth
+
+# HuggingFace cache
+.huggingface/
+.cache/huggingface/
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+*.log
+*.out
+
+# =========================
+# Experiments & artifacts
+# =========================
+results/
+outputs/
+figures/
+plots/
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editors & IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Secrets
+# =========================
+.env
+.env.*
+*.key
+*.secret
