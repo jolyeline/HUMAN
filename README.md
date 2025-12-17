@@ -22,12 +22,12 @@ This repository contains scripts and datasets for collecting, parsing, classifyi
 
 ---
 
-### 📰 News
+### 📰 news
   Jupyter notebooks for parsing, classifying, annotating, and analysing news data.
 
 ---
 
-### 🗳️ Elections
+### 🗳️ elections
   Jupyter notebooks for parsing PDFs, classifying text, and analysing election materials.
 
 ---
