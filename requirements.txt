@@ -5,4 +5,7 @@ litellm
 pydantic
 ipykernel
 nltk
+pdfplumber
+selenium
+spacy
 

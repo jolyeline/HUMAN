@@ -81,3 +81,5 @@ Thumbs.db
 *.csv
 *.json
 *.xml
+*.html
+*.exe
