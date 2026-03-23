@@ -8,4 +8,5 @@ nltk
 pdfplumber
 selenium
 spacy
+bs4
 
