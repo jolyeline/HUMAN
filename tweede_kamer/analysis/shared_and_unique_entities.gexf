@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-12">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="beleidsnota" label="beleidsnota" />
+      <node id="Six Dijkstra" label="Six Dijkstra" />
+      <node id="Dekker-Abdulaziz" label="Dekker-Abdulaziz" />
+      <node id="Kathmann" label="Kathmann" />
+      <node id="Parafenroute" label="Parafenroute" />
+      <node id="J V" label="J V" />
+      <node id="Telecomraad" label="Telecomraad" />
+      <node id="algoritmegebruik" label="algoritmegebruik" />
+      <node id="aileen" label="aileen" />
+      <node id="btw" label="btw" />
+      <node id="Kamerstukken II" label="Kamerstukken II" />
+      <node id="verzamelbrief" label="verzamelbrief" />
+      <node id="EK" label="EK" />
+      <node id="draagviak" label="draagviak" />
+      <node id="datjaarlijks" label="datjaarlijks" />
+      <node id="t m" label="t m" />
+      <node id="aanvuiiende" label="aanvuiiende" />
+      <node id="Stas" label="Stas" />
+      <node id="alie" label="alie" />
+      <node id="Verzamelbrief" label="Verzamelbrief" />
+      <node id="Van Nispen" label="Van Nispen" />
+      <node id="aiieen" label="aiieen" />
+      <node id="afhankelijkvan" label="afhankelijkvan" />
+      <node id="Inge van Dijk" label="Inge van Dijk" />
+      <node id="Van Dijk" label="Van Dijk" />
+      <node id="zeif" label="zeif" />
+      <node id="Idsinga" label="Idsinga" />
+      <node id="Aileen" label="Aileen" />
+      <node id="BTW" label="BTW" />
+      <node id="Paternotte" label="Paternotte" />
+      <node id="Woordvoeringslijn" label="Woordvoeringslijn" />
+      <node id="Toesiagen" label="Toesiagen" />
+      <node id="Daamaast" label="Daamaast" />
+      <node id="Van Huffelen" label="Van Huffelen" />
+      <node id="Paul" label="Paul" />
+      <node id="Toeslaaen" label="Toeslaaen" />
+      <node id="Vermeer" label="Vermeer" />
+      <node id="jaariijks" label="jaariijks" />
+      <node id="Flierbij" label="Flierbij" />
+      <node id="meervan" label="meervan" />
+      <node id="metde" label="metde" />
+      <node id="Ran" label="Ran" />
+      <node id="Politlek" label="Politlek" />
+      <node id="Finanden Fiscaliteit" label="Finanden Fiscaliteit" />
+      <node id="jaarlljks" label="jaarlljks" />
+      <node id="carry" label="carry" />
+      <node id="aanmerkinq" label="aanmerkinq" />
+      <node id="vanweqe" label="vanweqe" />
+      <node id="TERBESLIS5ING" label="TERBESLIS5ING" />
+      <node id="qaan" label="qaan" />
+      <node id="alsnoq" label="alsnoq" />
+      <node id="Mota" label="Mota" />
+      <node id="massaalbezwaarprocedure" label="massaalbezwaarprocedure" />
+      <node id="jaart" label="jaart" />
+      <node id="Voigens" label="Voigens" />
+      <node id="Tabei" label="Tabei" />
+      <node id="Vervolqens" label="Vervolqens" />
+      <node id="Erzijn" label="Erzijn" />
+      <node id="afhankelilk" label="afhankelilk" />
+      <node id="siot" label="siot" />
+      <node id="Prinsjesdag" label="Prinsjesdag" />
+      <node id="Ephraim" label="Ephraim" />
+      <node id="AOW" label="AOW" />
+      <node id="uitworpregels" label="uitworpregels" />
+      <node id="AVG" label="AVG" />
+      <node id="kiein" label="kiein" />
+      <node id="Tegeiijkertijd" label="Tegeiijkertijd" />
+      <node id="daarmeede" label="daarmeede" />
+      <node id="Miet van toepassing" label="Miet van toepassing" />
+      <node id="Koopmans" label="Koopmans" />
+      <node id="Ménaka" label="Ménaka" />
+      <node id="Van Meenen" label="Van Meenen" />
+      <node id="aebruik" label="aebruik" />
+      <node id="Van der Lee" label="Van der Lee" />
+      <node id="Menno Snel" label="Menno Snel" />
+      <node id="CWS" label="CWS" />
+      <node id="Wetstechnisch" label="Wetstechnisch" />
+      <node id="woordvoeringslijn" label="woordvoeringslijn" />
+      <node id="bezwaarte" label="bezwaarte" />
+      <node id="Gonzalez Perez" label="Gonzalez Perez" />
+      <node id="Dekker Abdulaziz" label="Dekker Abdulaziz" />
+      <node id="decemberjl" label="decemberjl" />
+      <node id="Douana" label="Douana" />
+      <node id="Dassen c.s." label="Dassen c.s." />
+      <node id="Artificiele" label="Artificiele" />
+      <node id="Opgestelddoor" label="Opgestelddoor" />
+      <node id="ministervan Financién" label="ministervan Financién" />
+      <node id="civilians" label="civilians" />
+      <node id="SRb" label="SRb" />
+      <node id="anti-drone" label="anti-drone" />
+      <node id="Adriaansens" label="Adriaansens" />
+      <node id="SZW/FIN" label="SZW/FIN" />
+      <node id="Van der Werf" label="Van der Werf" />
+      <node id="TikTok-" label="TikTok-" />
+      <node id="Booking" label="Booking" />
+      <node id="Reinout van den Bergh" label="Reinout van den Bergh" />
+      <node id="Meeontwikkelen" label="Meeontwikkelen" />
+      <node id="Digi-" label="Digi-" />
+      <node id="B. I" label="B. I" />
+      <node id="Doenvermogentoets" label="Doenvermogentoets" />
+      <node id="vooringevuid" label="vooringevuid" />
+      <node id="vergaderstuk" label="vergaderstuk" />
+      <node id="TPSP's" label="TPSP's" />
+      <node id="Parallel/" label="Parallel/" />
+      <node id="BegeleidingsCie" label="BegeleidingsCie" />
+      <node id="sustainability Allen" label="sustainability Allen" />
+      <node id="e m" label="e m" />
+      <node id="Financién" label="Financién" />
+      <node id="burgercontact" label="burgercontact" />
+      <node id="Zoë" label="Zoë" />
+      <node id="hofuitspraak Schrems" label="hofuitspraak Schrems" />
+      <node id="Trans-Europese Transportnetwerken" label="Trans-Europese Transportnetwerken" />
+      <node id="IBM Watson" label="IBM Watson" />
+      <node id="Watson" label="Watson" />
+      <node id="draaienwe" label="draaienwe" />
+      <node id="Terugbelafspraak" label="Terugbelafspraak" />
+      <node id="Sprint Review" label="Sprint Review" />
+      <node id="/terrugbelverzoek" label="/terrugbelverzoek" />
+      <node id="Arien" label="Arien" />
+      <node id="ee Klikop" label="ee Klikop" />
+      <node id="hi d j" label="hi d j" />
+      <node id="i i N g j" label="i i N g j" />
+      <node id="i d m m e d z" label="i d m m e d z" />
+      <node id="es el g e e" label="es el g e e" />
+      <node id="id m i a n" label="id m i a n" />
+      <node id="Doorontwik|keli|ng" label="Doorontwik|keli|ng" />
+      <node id="Conti" label="Conti" />
+      <node id="PersoonlijkeTijdlijn" label="PersoonlijkeTijdlijn" />
+      <node id="voorvullen" label="voorvullen" />
+      <node id="es e" label="es e" />
+      <node id="DatapuntDF&amp;Aen toegangEldoc" label="DatapuntDF&amp;Aen toegangEldoc" />
+      <node id="dafwijzingPBRTSL" label="dafwijzingPBRTSL" />
+      <node id="KRB" label="KRB" />
+      <node id="prof. dr." label="prof. dr." />
+      <node id="DialoogondersteuningBelteam" label="DialoogondersteuningBelteam" />
+      <node id="jp" label="jp" />
+      <node id="Meldknop-gesprek" label="Meldknop-gesprek" />
+      <node id="Zethetschadeverzoekdoor Zetschadeverzoekdoorenlevertextrainformatieaan" label="Zethetschadeverzoekdoor Zetschadeverzoekdoorenlevertextrainformatieaan" />
+      <node id="miGi" label="miGi" />
+      <node id="i r e i d g" label="i r e i d g" />
+      <node id="es D oa" label="es D oa" />
+      <node id="ee r l" label="ee r l" />
+      <node id="el r" label="el r" />
+      <node id="eengesprek tijdenseenfysieke" label="eengesprek tijdenseenfysieke" />
+      <node id="Ùi i" label="Ùi i" />
+      <node id="v m" label="v m" />
+      <node id="ee p e kk t l i i v o c" label="ee p e kk t l i i v o c" />
+      <node id="Ditkanbijvoorbeeldeenvervolggesprekzijnalsdeburgernogoverigevragenheeft" label="Ditkanbijvoorbeeldeenvervolggesprekzijnalsdeburgernogoverigevragenheeft" />
+      <node id="ervo" label="ervo" />
+      <node id="hee d rd" label="hee d rd" />
+      <node id="an ne d s" label="an ne d s" />
+      <node id="it I" label="it I" />
+      <node id="Daarnaastontvangikgraegallecorrespondentiemeteonbancaireinstellingtenasrzienvan" label="Daarnaastontvangikgraegallecorrespondentiemeteonbancaireinstellingtenasrzienvan" />
+      <node id="Voortsontvangikgraageenkopievandevolgendebescheiden" label="Voortsontvangikgraageenkopievandevolgendebescheiden" />
+      <node id="i T" label="i T" />
+      <node id="Co Pa" label="Co Pa" />
+      <node id="Ditisvoorwij" label="Ditisvoorwij" />
+      <node id="sl m" label="sl m" />
+      <node id="r m" label="r m" />
+      <node id="deba" label="deba" />
+      <node id="ET2e" label="ET2e" />
+      <node id="gebeldvooreentussentijdsgesprek" label="gebeldvooreentussentijdsgesprek" />
+      <node id="pt.4d" label="pt.4d" />
+      <node id="kst-29023-471" label="kst-29023-471" />
+      <node id="FIN." label="FIN." />
+      <node id="Al" label="Al" />
+      <node id="P Werkvoorraad" label="P Werkvoorraad" />
+      <node id="Tolerantiegrenzen" label="Tolerantiegrenzen" />
+      <node id="T m" label="T m" />
+      <node id="ee fo" label="ee fo" />
+      <node id="it r d e" label="it r d e" />
+      <node id="Voorlopigeconclusie" label="Voorlopigeconclusie" />
+      <node id="Elmo" label="Elmo" />
+      <node id="DIETleXela" label="DIETleXela" />
+      <node id="voormorele" label="voormorele" />
+      <node id="G." label="G." />
+      <node id="Nadia Calviño" label="Nadia Calviño" />
+      <node id="TGVe briefhad" label="TGVe briefhad" />
+      <node id="hetgebruikvan AI" label="hetgebruikvan AI" />
+      <node id="Toepassingvan" label="Toepassingvan" />
+      <node id="inzichtte" label="inzichtte" />
+      <node id="i di c" label="i di c" />
+      <node id="co m" label="co m" />
+      <node id="ij n k" label="ij n k" />
+      <node id="s m" label="s m" />
+      <node id="i m" label="i m" />
+      <node id="M l e" label="M l e" />
+      <node id="i r D" label="i r D" />
+      <node id="ij e i n l n" label="ij e i n l n" />
+      <node id="ia v t" label="ia v t" />
+      <node id="h d e i n l e l d v e e" label="h d e i n l e l d v e e" />
+      <node id="rk g b r e" label="rk g b r e" />
+      <node id="va m" label="va m" />
+      <node id="Kim Putters" label="Kim Putters" />
+      <node id="plenair verslag" label="plenair verslag" />
+      <node id="heer Verhoeven" label="heer Verhoeven" />
+      <node id="heer Wilders" label="heer Wilders" />
+      <node id="heer Paternotte" label="heer Paternotte" />
+      <node id="heer Van Baarle" label="heer Van Baarle" />
+      <node id="dank" label="dank" />
+      <node id="Van Baarle" label="Van Baarle" />
+      <node id="VVD):Voorzitter" label="VVD):Voorzitter" />
+      <node id="Jasper van Dijk" label="Jasper van Dijk" />
+      <node id="Rutte" label="Rutte" />
+      <node id="Mevrouw Leijten" label="Mevrouw Leijten" />
+      <node id="D66):Ik" label="D66):Ik" />
+      <node id="I" label="I" />
+      <node id="heer Van Nispen" label="heer Van Nispen" />
+      <node id="De Roon" label="De Roon" />
+      <node id="heer Jetten" label="heer Jetten" />
+      <node id="heer Eerdmans" label="heer Eerdmans" />
+      <node id="Verhoeven" label="Verhoeven" />
+      <node id="Huawei" label="Huawei" />
+      <node id="heer Klaver" label="heer Klaver" />
+      <node id="Van Haga" label="Van Haga" />
+      <node id="Van der Plas" label="Van der Plas" />
+      <node id="heer Grashoff" label="heer Grashoff" />
+      <node id="heer Bosman" label="heer Bosman" />
+      <node id="heer Van Dijk" label="heer Van Dijk" />
+      <node id="heer Omtzigt" label="heer Omtzigt" />
+      <node id="Trump" label="Trump" />
+      <node id="Mevrouw Rajkowski" label="Mevrouw Rajkowski" />
+      <node id="Mevrouw Van der Plas" label="Mevrouw Van der Plas" />
+      <node id="Diederik van Dijk" label="Diederik van Dijk" />
+      <node id="Van Toorenburg" label="Van Toorenburg" />
+      <node id="heer Van Raak" label="heer Van Raak" />
+      <node id="heer Voordewind" label="heer Voordewind" />
+      <node id="Gijs van Dijk" label="Gijs van Dijk" />
+      <node id="Martin Bosma" label="Martin Bosma" />
+      <node id="Mevrouw Van den Berg" label="Mevrouw Van den Berg" />
+      <node id="heer Van Haga" label="heer Van Haga" />
+      <node id="Dassen" label="Dassen" />
+      <node id="Tesla" label="Tesla" />
+      <node id="D66):Het" label="D66):Het" />
+      <node id="Amazon" label="Amazon" />
+      <node id="heer Van der Molen" label="heer Van der Molen" />
+      <node id="heer Nijboer" label="heer Nijboer" />
+      <node id="Jean-Claude Juncker" label="Jean-Claude Juncker" />
+      <node id="heer Baudet" label="heer Baudet" />
+      <node id="heer Van Meijeren" label="heer Van Meijeren" />
+      <node id="Yeşilgöz-Zegerius" label="Yeşilgöz-Zegerius" />
+      <node id="Bromet" label="Bromet" />
+      <node id="Mevrouw Kathmann" label="Mevrouw Kathmann" />
+      <node id="Eerdmans" label="Eerdmans" />
+      <node id="Mevrouw Koekkoek" label="Mevrouw Koekkoek" />
+      <node id="Brekelmans" label="Brekelmans" />
+      <node id="Tesla's" label="Tesla's" />
+      <node id="heer Graus" label="heer Graus" />
+      <node id="heer Bosma" label="heer Bosma" />
+      <node id="Bosman" label="Bosman" />
+      <node id="Van Weerdenburg" label="Van Weerdenburg" />
+      <node id="Uber" label="Uber" />
+      <node id="heer Van der Lee" label="heer Van der Lee" />
+      <node id="Stoffer" label="Stoffer" />
+      <node id="Dank" label="Dank" />
+      <node id="Den Haan" label="Den Haan" />
+      <node id="heer Brekelmans" label="heer Brekelmans" />
+      <node id="heer Krul" label="heer Krul" />
+      <node id="heer Van Houwelingen" label="heer Van Houwelingen" />
+      <node id="Tuinman" label="Tuinman" />
+      <node id="heer Kerstens" label="heer Kerstens" />
+      <node id="heer Van Helvert" label="heer Van Helvert" />
+      <node id="Ouwehand" label="Ouwehand" />
+      <node id="Jetten" label="Jetten" />
+      <node id="Mevrouw Agema" label="Mevrouw Agema" />
+      <node id="Van Raan" label="Van Raan" />
+      <node id="Mevrouw Van Weerdenburg" label="Mevrouw Van Weerdenburg" />
+      <node id="Mevrouw Diks" label="Mevrouw Diks" />
+      <node id="Pieter Heerma" label="Pieter Heerma" />
+      <node id="heer Slootweg" label="heer Slootweg" />
+      <node id="heer Stoffer" label="heer Stoffer" />
+      <node id="Teunissen" label="Teunissen" />
+      <node id="Van den Berg" label="Van den Berg" />
+      <node id="Rajkowski" label="Rajkowski" />
+      <node id="Fritsma" label="Fritsma" />
+      <node id="heer Thijssen" label="heer Thijssen" />
+      <node id="heer Bontenbal" label="heer Bontenbal" />
+      <node id="Koekkoek" label="Koekkoek" />
+      <node id="Mevrouw Dobbe" label="Mevrouw Dobbe" />
+      <node id="Dijkstra" label="Dijkstra" />
+      <node id="Van Wijngaarden" label="Van Wijngaarden" />
+      <node id="Knops" label="Knops" />
+      <node id="Ploumen" label="Ploumen" />
+      <node id="Van Helvert" label="Van Helvert" />
+    </nodes>
+    <edges>
+      <edge source="beleidsnota" target="Six Dijkstra" id="0" weight="17" />
+      <edge source="beleidsnota" target="Dekker-Abdulaziz" id="1" weight="12" />
+      <edge source="beleidsnota" target="Kathmann" id="2" weight="12" />
+      <edge source="beleidsnota" target="Parafenroute" id="3" weight="11" />
+      <edge source="beleidsnota" target="J V" id="4" weight="7" />
+      <edge source="beleidsnota" target="Telecomraad" id="5" weight="6" />
+      <edge source="beleidsnota" target="algoritmegebruik" id="6" weight="6" />
+      <edge source="beleidsnota" target="aileen" id="7" weight="5" />
+      <edge source="beleidsnota" target="btw" id="8" weight="5" />
+      <edge source="beleidsnota" target="Kamerstukken II" id="9" weight="5" />
+      <edge source="beleidsnota" target="verzamelbrief" id="10" weight="5" />
+      <edge source="beleidsnota" target="EK" id="11" weight="4" />
+      <edge source="beleidsnota" target="draagviak" id="12" weight="4" />
+      <edge source="beleidsnota" target="datjaarlijks" id="13" weight="4" />
+      <edge source="beleidsnota" target="t m" id="14" weight="4" />
+      <edge source="beleidsnota" target="aanvuiiende" id="15" weight="4" />
+      <edge source="beleidsnota" target="Stas" id="16" weight="4" />
+      <edge source="beleidsnota" target="alie" id="17" weight="4" />
+      <edge source="beleidsnota" target="Verzamelbrief" id="18" weight="4" />
+      <edge source="beleidsnota" target="Van Nispen" id="19" weight="4" />
+      <edge source="beleidsnota" target="aiieen" id="20" weight="3" />
+      <edge source="beleidsnota" target="afhankelijkvan" id="21" weight="3" />
+      <edge source="beleidsnota" target="Inge van Dijk" id="22" weight="3" />
+      <edge source="beleidsnota" target="Van Dijk" id="23" weight="3" />
+      <edge source="beleidsnota" target="zeif" id="24" weight="3" />
+      <edge source="beleidsnota" target="Idsinga" id="25" weight="3" />
+      <edge source="beleidsnota" target="Aileen" id="26" weight="3" />
+      <edge source="beleidsnota" target="BTW" id="27" weight="3" />
+      <edge source="beleidsnota" target="Paternotte" id="28" weight="3" />
+      <edge source="beleidsnota" target="Woordvoeringslijn" id="29" weight="3" />
+      <edge source="beleidsnota" target="Toesiagen" id="30" weight="3" />
+      <edge source="beleidsnota" target="Daamaast" id="31" weight="3" />
+      <edge source="beleidsnota" target="Van Huffelen" id="32" weight="3" />
+      <edge source="beleidsnota" target="Paul" id="33" weight="3" />
+      <edge source="beleidsnota" target="Toeslaaen" id="34" weight="3" />
+      <edge source="beleidsnota" target="Vermeer" id="35" weight="3" />
+      <edge source="beleidsnota" target="jaariijks" id="36" weight="2" />
+      <edge source="beleidsnota" target="Flierbij" id="37" weight="2" />
+      <edge source="beleidsnota" target="meervan" id="38" weight="2" />
+      <edge source="beleidsnota" target="metde" id="39" weight="2" />
+      <edge source="beleidsnota" target="Ran" id="40" weight="2" />
+      <edge source="beleidsnota" target="Politlek" id="41" weight="2" />
+      <edge source="beleidsnota" target="Finanden Fiscaliteit" id="42" weight="2" />
+      <edge source="beleidsnota" target="jaarlljks" id="43" weight="2" />
+      <edge source="beleidsnota" target="carry" id="44" weight="2" />
+      <edge source="beleidsnota" target="aanmerkinq" id="45" weight="2" />
+      <edge source="beleidsnota" target="vanweqe" id="46" weight="2" />
+      <edge source="beleidsnota" target="TERBESLIS5ING" id="47" weight="2" />
+      <edge source="beleidsnota" target="qaan" id="48" weight="2" />
+      <edge source="beleidsnota" target="alsnoq" id="49" weight="2" />
+      <edge source="beleidsnota" target="Mota" id="50" weight="2" />
+      <edge source="beleidsnota" target="massaalbezwaarprocedure" id="51" weight="2" />
+      <edge source="beleidsnota" target="jaart" id="52" weight="2" />
+      <edge source="beleidsnota" target="Voigens" id="53" weight="2" />
+      <edge source="beleidsnota" target="Tabei" id="54" weight="2" />
+      <edge source="beleidsnota" target="Vervolqens" id="55" weight="2" />
+      <edge source="beleidsnota" target="Erzijn" id="56" weight="2" />
+      <edge source="beleidsnota" target="afhankelilk" id="57" weight="2" />
+      <edge source="beleidsnota" target="siot" id="58" weight="2" />
+      <edge source="beleidsnota" target="Prinsjesdag" id="59" weight="2" />
+      <edge source="beleidsnota" target="Ephraim" id="60" weight="2" />
+      <edge source="beleidsnota" target="AOW" id="61" weight="2" />
+      <edge source="beleidsnota" target="uitworpregels" id="62" weight="2" />
+      <edge source="beleidsnota" target="AVG" id="63" weight="2" />
+      <edge source="beleidsnota" target="kiein" id="64" weight="2" />
+      <edge source="beleidsnota" target="Tegeiijkertijd" id="65" weight="2" />
+      <edge source="beleidsnota" target="daarmeede" id="66" weight="2" />
+      <edge source="beleidsnota" target="Miet van toepassing" id="67" weight="2" />
+      <edge source="beleidsnota" target="Koopmans" id="68" weight="2" />
+      <edge source="beleidsnota" target="Ménaka" id="69" weight="2" />
+      <edge source="beleidsnota" target="Van Meenen" id="70" weight="2" />
+      <edge source="beleidsnota" target="aebruik" id="71" weight="2" />
+      <edge source="beleidsnota" target="Van der Lee" id="72" weight="2" />
+      <edge source="beleidsnota" target="Menno Snel" id="73" weight="2" />
+      <edge source="beleidsnota" target="CWS" id="74" weight="2" />
+      <edge source="beleidsnota" target="Wetstechnisch" id="75" weight="2" />
+      <edge source="beleidsnota" target="woordvoeringslijn" id="76" weight="2" />
+      <edge source="beleidsnota" target="bezwaarte" id="77" weight="2" />
+      <edge source="beleidsnota" target="Gonzalez Perez" id="78" weight="2" />
+      <edge source="beleidsnota" target="Dekker Abdulaziz" id="79" weight="2" />
+      <edge source="beleidsnota" target="decemberjl" id="80" weight="2" />
+      <edge source="beleidsnota" target="Douana" id="81" weight="2" />
+      <edge source="beleidsnota" target="Dassen c.s." id="82" weight="2" />
+      <edge source="beleidsnota" target="Artificiele" id="83" weight="2" />
+      <edge source="beleidsnota" target="Opgestelddoor" id="84" weight="2" />
+      <edge source="beleidsnota" target="ministervan Financién" id="85" weight="2" />
+      <edge source="beleidsnota" target="civilians" id="86" weight="2" />
+      <edge source="beleidsnota" target="SRb" id="87" weight="2" />
+      <edge source="beleidsnota" target="anti-drone" id="88" weight="2" />
+      <edge source="beleidsnota" target="Adriaansens" id="89" weight="2" />
+      <edge source="beleidsnota" target="SZW/FIN" id="90" weight="2" />
+      <edge source="beleidsnota" target="Van der Werf" id="91" weight="2" />
+      <edge source="beleidsnota" target="TikTok-" id="92" weight="2" />
+      <edge source="beleidsnota" target="Booking" id="93" weight="1" />
+      <edge source="beleidsnota" target="Reinout van den Bergh" id="94" weight="1" />
+      <edge source="beleidsnota" target="Meeontwikkelen" id="95" weight="1" />
+      <edge source="beleidsnota" target="Digi-" id="96" weight="1" />
+      <edge source="beleidsnota" target="B. I" id="97" weight="1" />
+      <edge source="beleidsnota" target="Doenvermogentoets" id="98" weight="1" />
+      <edge source="beleidsnota" target="vooringevuid" id="99" weight="1" />
+      <edge source="Six Dijkstra" target="vergaderstuk" id="100" weight="2" />
+      <edge source="Six Dijkstra" target="plenair verslag" id="101" weight="13" />
+      <edge source="Dekker-Abdulaziz" target="vergaderstuk" id="102" weight="1" />
+      <edge source="Dekker-Abdulaziz" target="plenair verslag" id="103" weight="7" />
+      <edge source="Kathmann" target="plenair verslag" id="104" weight="15" />
+      <edge source="Telecomraad" target="plenair verslag" id="105" weight="6" />
+      <edge source="algoritmegebruik" target="vergaderstuk" id="106" weight="2" />
+      <edge source="verzamelbrief" target="vergaderstuk" id="107" weight="1" />
+      <edge source="EK" target="vergaderstuk" id="108" weight="1" />
+      <edge source="Verzamelbrief" target="vergaderstuk" id="109" weight="2" />
+      <edge source="Van Nispen" target="plenair verslag" id="110" weight="7" />
+      <edge source="Inge van Dijk" target="plenair verslag" id="111" weight="7" />
+      <edge source="Van Dijk" target="plenair verslag" id="112" weight="6" />
+      <edge source="Paternotte" target="plenair verslag" id="113" weight="12" />
+      <edge source="Van Huffelen" target="plenair verslag" id="114" weight="13" />
+      <edge source="AVG" target="vergaderstuk" id="115" weight="2" />
+      <edge source="Van der Lee" target="plenair verslag" id="116" weight="6" />
+      <edge source="ministervan Financién" target="vergaderstuk" id="117" weight="1" />
+      <edge source="Van der Werf" target="plenair verslag" id="118" weight="7" />
+      <edge source="vergaderstuk" target="TPSP's" id="119" weight="4" />
+      <edge source="vergaderstuk" target="Parallel/" id="120" weight="4" />
+      <edge source="vergaderstuk" target="BegeleidingsCie" id="121" weight="4" />
+      <edge source="vergaderstuk" target="sustainability Allen" id="122" weight="4" />
+      <edge source="vergaderstuk" target="e m" id="123" weight="3" />
+      <edge source="vergaderstuk" target="Financién" id="124" weight="2" />
+      <edge source="vergaderstuk" target="burgercontact" id="125" weight="2" />
+      <edge source="vergaderstuk" target="Zoë" id="126" weight="1" />
+      <edge source="vergaderstuk" target="hofuitspraak Schrems" id="127" weight="1" />
+      <edge source="vergaderstuk" target="Trans-Europese Transportnetwerken" id="128" weight="1" />
+      <edge source="vergaderstuk" target="IBM Watson" id="129" weight="1" />
+      <edge source="vergaderstuk" target="Watson" id="130" weight="1" />
+      <edge source="vergaderstuk" target="draaienwe" id="131" weight="1" />
+      <edge source="vergaderstuk" target="Terugbelafspraak" id="132" weight="1" />
+      <edge source="vergaderstuk" target="Sprint Review" id="133" weight="1" />
+      <edge source="vergaderstuk" target="/terrugbelverzoek" id="134" weight="1" />
+      <edge source="vergaderstuk" target="Arien" id="135" weight="1" />
+      <edge source="vergaderstuk" target="ee Klikop" id="136" weight="1" />
+      <edge source="vergaderstuk" target="hi d j" id="137" weight="1" />
+      <edge source="vergaderstuk" target="i i N g j" id="138" weight="1" />
+      <edge source="vergaderstuk" target="i d m m e d z" id="139" weight="1" />
+      <edge source="vergaderstuk" target="es el g e e" id="140" weight="1" />
+      <edge source="vergaderstuk" target="id m i a n" id="141" weight="1" />
+      <edge source="vergaderstuk" target="Doorontwik|keli|ng" id="142" weight="1" />
+      <edge source="vergaderstuk" target="Conti" id="143" weight="1" />
+      <edge source="vergaderstuk" target="PersoonlijkeTijdlijn" id="144" weight="1" />
+      <edge source="vergaderstuk" target="voorvullen" id="145" weight="1" />
+      <edge source="vergaderstuk" target="es e" id="146" weight="1" />
+      <edge source="vergaderstuk" target="DatapuntDF&amp;Aen toegangEldoc" id="147" weight="1" />
+      <edge source="vergaderstuk" target="dafwijzingPBRTSL" id="148" weight="1" />
+      <edge source="vergaderstuk" target="KRB" id="149" weight="1" />
+      <edge source="vergaderstuk" target="prof. dr." id="150" weight="1" />
+      <edge source="vergaderstuk" target="DialoogondersteuningBelteam" id="151" weight="1" />
+      <edge source="vergaderstuk" target="jp" id="152" weight="1" />
+      <edge source="vergaderstuk" target="Meldknop-gesprek" id="153" weight="1" />
+      <edge source="vergaderstuk" target="Zethetschadeverzoekdoor Zetschadeverzoekdoorenlevertextrainformatieaan" id="154" weight="1" />
+      <edge source="vergaderstuk" target="miGi" id="155" weight="1" />
+      <edge source="vergaderstuk" target="i r e i d g" id="156" weight="1" />
+      <edge source="vergaderstuk" target="es D oa" id="157" weight="1" />
+      <edge source="vergaderstuk" target="ee r l" id="158" weight="1" />
+      <edge source="vergaderstuk" target="el r" id="159" weight="1" />
+      <edge source="vergaderstuk" target="eengesprek tijdenseenfysieke" id="160" weight="1" />
+      <edge source="vergaderstuk" target="Ùi i" id="161" weight="1" />
+      <edge source="vergaderstuk" target="v m" id="162" weight="1" />
+      <edge source="vergaderstuk" target="ee p e kk t l i i v o c" id="163" weight="1" />
+      <edge source="vergaderstuk" target="Ditkanbijvoorbeeldeenvervolggesprekzijnalsdeburgernogoverigevragenheeft" id="164" weight="1" />
+      <edge source="vergaderstuk" target="ervo" id="165" weight="1" />
+      <edge source="vergaderstuk" target="hee d rd" id="166" weight="1" />
+      <edge source="vergaderstuk" target="an ne d s" id="167" weight="1" />
+      <edge source="vergaderstuk" target="it I" id="168" weight="1" />
+      <edge source="vergaderstuk" target="Daarnaastontvangikgraegallecorrespondentiemeteonbancaireinstellingtenasrzienvan" id="169" weight="1" />
+      <edge source="vergaderstuk" target="Voortsontvangikgraageenkopievandevolgendebescheiden" id="170" weight="1" />
+      <edge source="vergaderstuk" target="i T" id="171" weight="1" />
+      <edge source="vergaderstuk" target="Co Pa" id="172" weight="1" />
+      <edge source="vergaderstuk" target="Ditisvoorwij" id="173" weight="1" />
+      <edge source="vergaderstuk" target="sl m" id="174" weight="1" />
+      <edge source="vergaderstuk" target="r m" id="175" weight="1" />
+      <edge source="vergaderstuk" target="deba" id="176" weight="1" />
+      <edge source="vergaderstuk" target="ET2e" id="177" weight="1" />
+      <edge source="vergaderstuk" target="gebeldvooreentussentijdsgesprek" id="178" weight="1" />
+      <edge source="vergaderstuk" target="pt.4d" id="179" weight="1" />
+      <edge source="vergaderstuk" target="kst-29023-471" id="180" weight="1" />
+      <edge source="vergaderstuk" target="FIN." id="181" weight="1" />
+      <edge source="vergaderstuk" target="Al" id="182" weight="1" />
+      <edge source="vergaderstuk" target="P Werkvoorraad" id="183" weight="1" />
+      <edge source="vergaderstuk" target="Tolerantiegrenzen" id="184" weight="1" />
+      <edge source="vergaderstuk" target="T m" id="185" weight="1" />
+      <edge source="vergaderstuk" target="ee fo" id="186" weight="1" />
+      <edge source="vergaderstuk" target="it r d e" id="187" weight="1" />
+      <edge source="vergaderstuk" target="Voorlopigeconclusie" id="188" weight="1" />
+      <edge source="vergaderstuk" target="Elmo" id="189" weight="1" />
+      <edge source="vergaderstuk" target="DIETleXela" id="190" weight="1" />
+      <edge source="vergaderstuk" target="voormorele" id="191" weight="1" />
+      <edge source="vergaderstuk" target="G." id="192" weight="1" />
+      <edge source="vergaderstuk" target="Nadia Calviño" id="193" weight="1" />
+      <edge source="vergaderstuk" target="TGVe briefhad" id="194" weight="1" />
+      <edge source="vergaderstuk" target="hetgebruikvan AI" id="195" weight="1" />
+      <edge source="vergaderstuk" target="Toepassingvan" id="196" weight="1" />
+      <edge source="vergaderstuk" target="inzichtte" id="197" weight="1" />
+      <edge source="vergaderstuk" target="i di c" id="198" weight="1" />
+      <edge source="vergaderstuk" target="co m" id="199" weight="1" />
+      <edge source="vergaderstuk" target="ij n k" id="200" weight="1" />
+      <edge source="vergaderstuk" target="s m" id="201" weight="1" />
+      <edge source="vergaderstuk" target="i m" id="202" weight="1" />
+      <edge source="vergaderstuk" target="M l e" id="203" weight="1" />
+      <edge source="vergaderstuk" target="i r D" id="204" weight="1" />
+      <edge source="vergaderstuk" target="ij e i n l n" id="205" weight="1" />
+      <edge source="vergaderstuk" target="ia v t" id="206" weight="1" />
+      <edge source="vergaderstuk" target="h d e i n l e l d v e e" id="207" weight="1" />
+      <edge source="vergaderstuk" target="rk g b r e" id="208" weight="1" />
+      <edge source="vergaderstuk" target="va m" id="209" weight="1" />
+      <edge source="vergaderstuk" target="Kim Putters" id="210" weight="1" />
+      <edge source="plenair verslag" target="heer Verhoeven" id="211" weight="30" />
+      <edge source="plenair verslag" target="heer Wilders" id="212" weight="24" />
+      <edge source="plenair verslag" target="heer Paternotte" id="213" weight="23" />
+      <edge source="plenair verslag" target="heer Van Baarle" id="214" weight="23" />
+      <edge source="plenair verslag" target="dank" id="215" weight="19" />
+      <edge source="plenair verslag" target="Van Baarle" id="216" weight="19" />
+      <edge source="plenair verslag" target="VVD):Voorzitter" id="217" weight="17" />
+      <edge source="plenair verslag" target="Jasper van Dijk" id="218" weight="16" />
+      <edge source="plenair verslag" target="Rutte" id="219" weight="16" />
+      <edge source="plenair verslag" target="Mevrouw Leijten" id="220" weight="15" />
+      <edge source="plenair verslag" target="D66):Ik" id="221" weight="15" />
+      <edge source="plenair verslag" target="I" id="222" weight="13" />
+      <edge source="plenair verslag" target="heer Van Nispen" id="223" weight="13" />
+      <edge source="plenair verslag" target="De Roon" id="224" weight="12" />
+      <edge source="plenair verslag" target="heer Jetten" id="225" weight="12" />
+      <edge source="plenair verslag" target="heer Eerdmans" id="226" weight="12" />
+      <edge source="plenair verslag" target="Verhoeven" id="227" weight="11" />
+      <edge source="plenair verslag" target="Huawei" id="228" weight="11" />
+      <edge source="plenair verslag" target="heer Klaver" id="229" weight="11" />
+      <edge source="plenair verslag" target="Van Haga" id="230" weight="11" />
+      <edge source="plenair verslag" target="Van der Plas" id="231" weight="11" />
+      <edge source="plenair verslag" target="heer Grashoff" id="232" weight="10" />
+      <edge source="plenair verslag" target="heer Bosman" id="233" weight="10" />
+      <edge source="plenair verslag" target="heer Van Dijk" id="234" weight="10" />
+      <edge source="plenair verslag" target="heer Omtzigt" id="235" weight="10" />
+      <edge source="plenair verslag" target="Trump" id="236" weight="10" />
+      <edge source="plenair verslag" target="Mevrouw Rajkowski" id="237" weight="10" />
+      <edge source="plenair verslag" target="Mevrouw Van der Plas" id="238" weight="10" />
+      <edge source="plenair verslag" target="Diederik van Dijk" id="239" weight="10" />
+      <edge source="plenair verslag" target="Van Toorenburg" id="240" weight="9" />
+      <edge source="plenair verslag" target="heer Van Raak" id="241" weight="9" />
+      <edge source="plenair verslag" target="heer Voordewind" id="242" weight="9" />
+      <edge source="plenair verslag" target="Gijs van Dijk" id="243" weight="9" />
+      <edge source="plenair verslag" target="Martin Bosma" id="244" weight="9" />
+      <edge source="plenair verslag" target="Mevrouw Van den Berg" id="245" weight="9" />
+      <edge source="plenair verslag" target="heer Van Haga" id="246" weight="9" />
+      <edge source="plenair verslag" target="Dassen" id="247" weight="9" />
+      <edge source="plenair verslag" target="Tesla" id="248" weight="8" />
+      <edge source="plenair verslag" target="D66):Het" id="249" weight="8" />
+      <edge source="plenair verslag" target="Amazon" id="250" weight="8" />
+      <edge source="plenair verslag" target="heer Van der Molen" id="251" weight="8" />
+      <edge source="plenair verslag" target="heer Nijboer" id="252" weight="8" />
+      <edge source="plenair verslag" target="Jean-Claude Juncker" id="253" weight="8" />
+      <edge source="plenair verslag" target="heer Baudet" id="254" weight="8" />
+      <edge source="plenair verslag" target="heer Van Meijeren" id="255" weight="8" />
+      <edge source="plenair verslag" target="Yeşilgöz-Zegerius" id="256" weight="8" />
+      <edge source="plenair verslag" target="Bromet" id="257" weight="8" />
+      <edge source="plenair verslag" target="Mevrouw Kathmann" id="258" weight="8" />
+      <edge source="plenair verslag" target="Eerdmans" id="259" weight="8" />
+      <edge source="plenair verslag" target="Mevrouw Koekkoek" id="260" weight="8" />
+      <edge source="plenair verslag" target="Brekelmans" id="261" weight="8" />
+      <edge source="plenair verslag" target="Tesla's" id="262" weight="7" />
+      <edge source="plenair verslag" target="heer Graus" id="263" weight="7" />
+      <edge source="plenair verslag" target="heer Bosma" id="264" weight="7" />
+      <edge source="plenair verslag" target="Bosman" id="265" weight="7" />
+      <edge source="plenair verslag" target="Van Weerdenburg" id="266" weight="7" />
+      <edge source="plenair verslag" target="Uber" id="267" weight="7" />
+      <edge source="plenair verslag" target="heer Van der Lee" id="268" weight="7" />
+      <edge source="plenair verslag" target="Stoffer" id="269" weight="7" />
+      <edge source="plenair verslag" target="Dank" id="270" weight="7" />
+      <edge source="plenair verslag" target="Den Haan" id="271" weight="7" />
+      <edge source="plenair verslag" target="heer Brekelmans" id="272" weight="7" />
+      <edge source="plenair verslag" target="heer Krul" id="273" weight="7" />
+      <edge source="plenair verslag" target="heer Van Houwelingen" id="274" weight="7" />
+      <edge source="plenair verslag" target="Tuinman" id="275" weight="7" />
+      <edge source="plenair verslag" target="heer Kerstens" id="276" weight="6" />
+      <edge source="plenair verslag" target="heer Van Helvert" id="277" weight="6" />
+      <edge source="plenair verslag" target="Ouwehand" id="278" weight="6" />
+      <edge source="plenair verslag" target="Jetten" id="279" weight="6" />
+      <edge source="plenair verslag" target="Mevrouw Agema" id="280" weight="6" />
+      <edge source="plenair verslag" target="Van Raan" id="281" weight="6" />
+      <edge source="plenair verslag" target="Mevrouw Van Weerdenburg" id="282" weight="6" />
+      <edge source="plenair verslag" target="Mevrouw Diks" id="283" weight="6" />
+      <edge source="plenair verslag" target="Pieter Heerma" id="284" weight="6" />
+      <edge source="plenair verslag" target="heer Slootweg" id="285" weight="6" />
+      <edge source="plenair verslag" target="heer Stoffer" id="286" weight="6" />
+      <edge source="plenair verslag" target="Teunissen" id="287" weight="6" />
+      <edge source="plenair verslag" target="Van den Berg" id="288" weight="6" />
+      <edge source="plenair verslag" target="Rajkowski" id="289" weight="6" />
+      <edge source="plenair verslag" target="Fritsma" id="290" weight="6" />
+      <edge source="plenair verslag" target="heer Thijssen" id="291" weight="6" />
+      <edge source="plenair verslag" target="heer Bontenbal" id="292" weight="6" />
+      <edge source="plenair verslag" target="Koekkoek" id="293" weight="6" />
+      <edge source="plenair verslag" target="Mevrouw Dobbe" id="294" weight="6" />
+      <edge source="plenair verslag" target="Dijkstra" id="295" weight="6" />
+      <edge source="plenair verslag" target="Van Wijngaarden" id="296" weight="5" />
+      <edge source="plenair verslag" target="Knops" id="297" weight="5" />
+      <edge source="plenair verslag" target="Ploumen" id="298" weight="5" />
+      <edge source="plenair verslag" target="Van Helvert" id="299" weight="5" />
+    </edges>
+  </graph>
+</gexf>

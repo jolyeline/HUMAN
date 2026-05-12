@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-12">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="de wereld draait door" label="de wereld draait door" />
+      <node id="Trump" label="Trump" />
+      <node id="Donald Trump" label="Donald Trump" />
+      <node id="Ai" label="Ai" />
+      <node id="Marc-Marie" label="Marc-Marie" />
+      <node id="Alexander" label="Alexander" />
+      <node id="Jan" label="Jan" />
+      <node id="Tim Hofman" label="Tim Hofman" />
+      <node id="Marc-Marie Huijbregts" label="Marc-Marie Huijbregts" />
+      <node id="Obama" label="Obama" />
+      <node id="Usain Bolt" label="Usain Bolt" />
+      <node id="Mark Zuckerberg" label="Mark Zuckerberg" />
+      <node id="Alexander Klöpping" label="Alexander Klöpping" />
+      <node id="Max" label="Max" />
+      <node id="Beyonce" label="Beyonce" />
+      <node id="Papa" label="Papa" />
+      <node id="Wouter van Noort" label="Wouter van Noort" />
+      <node id="Clinton" label="Clinton" />
+      <node id="Jeroen" label="Jeroen" />
+      <node id="Geert Wilders" label="Geert Wilders" />
+      <node id="Cosby" label="Cosby" />
+      <node id="Sylvana" label="Sylvana" />
+      <node id="Elon" label="Elon" />
+      <node id="Bill Gates" label="Bill Gates" />
+      <node id="Frank" label="Frank" />
+      <node id="Tom" label="Tom" />
+      <node id="Rutte" label="Rutte" />
+      <node id="Willy" label="Willy" />
+      <node id="Maxima" label="Maxima" />
+      <node id="Hillary Clinton" label="Hillary Clinton" />
+      <node id="Stephen Hawking" label="Stephen Hawking" />
+      <node id="Peter Pannekoek" label="Peter Pannekoek" />
+      <node id="Paul" label="Paul" />
+      <node id="Dirk Jan Roeleven" label="Dirk Jan Roeleven" />
+      <node id="Frans Timmermans" label="Frans Timmermans" />
+      <node id="Rufus Wrainwight" label="Rufus Wrainwight" />
+      <node id="Nico" label="Nico" />
+      <node id="Lou de Jong" label="Lou de Jong" />
+      <node id="Noah Trebble" label="Noah Trebble" />
+      <node id="Ronaldo" label="Ronaldo" />
+      <node id="Marco van Basten" label="Marco van Basten" />
+      <node id="Van Swieten" label="Van Swieten" />
+      <node id="Einstein" label="Einstein" />
+      <node id="mastersurveillance" label="mastersurveillance" />
+      <node id="Alexander Prins" label="Alexander Prins" />
+      <node id="Henk" label="Henk" />
+      <node id="Georgina Verbaan" label="Georgina Verbaan" />
+      <node id="Julien Lizeroux" label="Julien Lizeroux" />
+      <node id="Stephan Enter" label="Stephan Enter" />
+      <node id="George" label="George" />
+      <node id="on hold" label="on hold" />
+      <node id="Andrew Makkinga" label="Andrew Makkinga" />
+      <node id="Natacha Harlequin" label="Natacha Harlequin" />
+      <node id="Barbara van Beukering" label="Barbara van Beukering" />
+      <node id="Frank Sanders" label="Frank Sanders" />
+      <node id="Mienke Schaberg" label="Mienke Schaberg" />
+      <node id="Malcolm X" label="Malcolm X" />
+      <node id="Andrew" label="Andrew" />
+      <node id="Malcolm Little" label="Malcolm Little" />
+      <node id="Elijah Muhammad" label="Elijah Muhammad" />
+      <node id="Glenn" label="Glenn" />
+      <node id="Martin Luther" label="Martin Luther" />
+      <node id="Malcolm" label="Malcolm" />
+      <node id="Martin Luther King" label="Martin Luther King" />
+      <node id="Natacha" label="Natacha" />
+      <node id="Hoover" label="Hoover" />
+      <node id="Aziz" label="Aziz" />
+      <node id="Cecile Narinx" label="Cecile Narinx" />
+      <node id="Tom Hoffman" label="Tom Hoffman" />
+      <node id="Dafne Schippers" label="Dafne Schippers" />
+      <node id="Alec Baldwin Trump" label="Alec Baldwin Trump" />
+      <node id="Sylvana Simons" label="Sylvana Simons" />
+      <node id="Johan Cruijff" label="Johan Cruijff" />
+      <node id="David Lynch" label="David Lynch" />
+      <node id="Jeffrey" label="Jeffrey" />
+      <node id="David" label="David" />
+      <node id="Thom" label="Thom" />
+      <node id="Glass Animals" label="Glass Animals" />
+      <node id="I am Bolt" label="I am Bolt" />
+      <node id="it right" label="it right" />
+      <node id="Dave Hakkens" label="Dave Hakkens" />
+      <node id="Ronald Koeman" label="Ronald Koeman" />
+      <node id="Everton" label="Everton" />
+      <node id="Louis van Gaal" label="Louis van Gaal" />
+      <node id="Feller" label="Feller" />
+      <node id="Nina Simone" label="Nina Simone" />
+      <node id="Solange" label="Solange" />
+      <node id="Herman Pleij" label="Herman Pleij" />
+      <node id="Gregory Porter" label="Gregory Porter" />
+      <node id="Leona Philippo" label="Leona Philippo" />
+      <node id="Frank Boeijen" label="Frank Boeijen" />
+      <node id="The Crown" label="The Crown" />
+      <node id="gaaf" label="gaaf" />
+      <node id="anti-Clinton" label="anti-Clinton" />
+      <node id="Wouter" label="Wouter" />
+      <node id="Sylvana bij Pauw" label="Sylvana bij Pauw" />
+      <node id="Sylvana..." label="Sylvana..." />
+      <node id="Simpsons" label="Simpsons" />
+      <node id="pro-Trump" label="pro-Trump" />
+      <node id="Paulien Cornelissen" label="Paulien Cornelissen" />
+      <node id="Jan Donkers" label="Jan Donkers" />
+      <node id="jinek" label="jinek" />
+      <node id="Jinek" label="Jinek" />
+      <node id="koningin Elizabeth" label="koningin Elizabeth" />
+      <node id="Chantal" label="Chantal" />
+      <node id="Kiki Bertens" label="Kiki Bertens" />
+      <node id="Kuznetsova" label="Kuznetsova" />
+      <node id="al." label="al." />
+      <node id="Bruno Mars" label="Bruno Mars" />
+      <node id="Exact" label="Exact" />
+      <node id="Bas" label="Bas" />
+      <node id="Facebookfeed" label="Facebookfeed" />
+      <node id="Alexander Klopping" label="Alexander Klopping" />
+      <node id="Claudia" label="Claudia" />
+      <node id="Ashton Brothers" label="Ashton Brothers" />
+      <node id="Andre K." label="Andre K." />
+      <node id="Cornel" label="Cornel" />
+      <node id="Rembrandt" label="Rembrandt" />
+      <node id="Inge de Bruijn" label="Inge de Bruijn" />
+      <node id="Gijs" label="Gijs" />
+      <node id="Redbad" label="Redbad" />
+      <node id="Arnold Schwarzenegger" label="Arnold Schwarzenegger" />
+      <node id="Sylvester Stallone" label="Sylvester Stallone" />
+      <node id="Johan Cruyff Foundation" label="Johan Cruyff Foundation" />
+      <node id="Sinterklaas" label="Sinterklaas" />
+      <node id="Michael van Z." label="Michael van Z." />
+      <node id="Bo van Spilbeeck" label="Bo van Spilbeeck" />
+      <node id="Starman" label="Starman" />
+      <node id="Bowie" label="Bowie" />
+      <node id="kees" label="kees" />
+      <node id="Boe!" label="Boe!" />
+      <node id="Mark Rutte" label="Mark Rutte" />
+      <node id="Joost" label="Joost" />
+      <node id="dank" label="dank" />
+      <node id="Tarik Z." label="Tarik Z." />
+      <node id="Arie Boomsma" label="Arie Boomsma" />
+      <node id="Tim Deurvorst" label="Tim Deurvorst" />
+      <node id="Wichert Kooloos" label="Wichert Kooloos" />
+      <node id="Rick" label="Rick" />
+      <node id="Bolt" label="Bolt" />
+      <node id="Jort Kelder" label="Jort Kelder" />
+      <node id="Derk Bolt" label="Derk Bolt" />
+      <node id="Tijn" label="Tijn" />
+      <node id="Eva Chatbot" label="Eva Chatbot" />
+      <node id="dank mijn gasten" label="dank mijn gasten" />
+      <node id="Ruben Smit" label="Ruben Smit" />
+      <node id="Ruben" label="Ruben" />
+      <node id="Joost van der Valk" label="Joost van der Valk" />
+      <node id="Levi!" label="Levi!" />
+      <node id="Peter Sagan" label="Peter Sagan" />
+      <node id="Maarten" label="Maarten" />
+      <node id="Anne Schulp" label="Anne Schulp" />
+      <node id="Peter R. De Vries" label="Peter R. De Vries" />
+      <node id="Marianne Thieme" label="Marianne Thieme" />
+      <node id="Jonnie Boer" label="Jonnie Boer" />
+      <node id="Paul Fagel" label="Paul Fagel" />
+      <node id="Robert Kranenborg" label="Robert Kranenborg" />
+      <node id="Macy" label="Macy" />
+      <node id="Jean-Claude Juncker" label="Jean-Claude Juncker" />
+      <node id="Peter R. de Vries" label="Peter R. de Vries" />
+      <node id="Emma Blanchard" label="Emma Blanchard" />
+      <node id="Dione de Graaff" label="Dione de Graaff" />
+      <node id="Gert van 't Hof" label="Gert van 't Hof" />
+      <node id="Erik Dijkstra" label="Erik Dijkstra" />
+      <node id="Frank Evenblij" label="Frank Evenblij" />
+      <node id="Jeroen Wielaert" label="Jeroen Wielaert" />
+      <node id="Rogier Warnawa" label="Rogier Warnawa" />
+      <node id="Rogier" label="Rogier" />
+      <node id="Thomas van Vught" label="Thomas van Vught" />
+      <node id="Peter" label="Peter" />
+      <node id="goedemorgen nederland" label="goedemorgen nederland" />
+      <node id="Maaike" label="Maaike" />
+      <node id="Jill" label="Jill" />
+      <node id="Sven Kockelmann" label="Sven Kockelmann" />
+      <node id="Welmoed" label="Welmoed" />
+      <node id="Rick Nieman" label="Rick Nieman" />
+      <node id="Linda" label="Linda" />
+      <node id="Jean Dohmen" label="Jean Dohmen" />
+      <node id="Maaike Timmerman" label="Maaike Timmerman" />
+      <node id="Farid Tabarki" label="Farid Tabarki" />
+      <node id="Lilian Marijnissen" label="Lilian Marijnissen" />
+      <node id="Annemarie" label="Annemarie" />
+      <node id="Linda Geerdink" label="Linda Geerdink" />
+      <node id="Wouter de Winther" label="Wouter de Winther" />
+      <node id="Poetin" label="Poetin" />
+      <node id="Marlene Bakker" label="Marlene Bakker" />
+      <node id="Tanja" label="Tanja" />
+      <node id="Erica Terpstra" label="Erica Terpstra" />
+      <node id="Eric Postma" label="Eric Postma" />
+      <node id="Jan Driessen" label="Jan Driessen" />
+      <node id="Hella Hueck" label="Hella Hueck" />
+      <node id="John" label="John" />
+      <node id="Edith Schippers" label="Edith Schippers" />
+      <node id="Maria" label="Maria" />
+      <node id="Jort" label="Jort" />
+      <node id="Mark" label="Mark" />
+      <node id="Zora" label="Zora" />
+      <node id="Peter Wijninga" label="Peter Wijninga" />
+      <node id="Welmoed Sijtsma" label="Welmoed Sijtsma" />
+      <node id="Nikki Herr" label="Nikki Herr" />
+      <node id="Johnson" label="Johnson" />
+      <node id="Thom van Campen" label="Thom van Campen" />
+      <node id="den Burg" label="den Burg" />
+      <node id="Mark Teurlings" label="Mark Teurlings" />
+      <node id="Justine" label="Justine" />
+      <node id="Afshin Ellian" label="Afshin Ellian" />
+      <node id="James Foley" label="James Foley" />
+      <node id="Robert van de Roer" label="Robert van de Roer" />
+      <node id="Martijn de Greve" label="Martijn de Greve" />
+      <node id="Barbara" label="Barbara" />
+      <node id="Pieter Omtzigt" label="Pieter Omtzigt" />
+      <node id="Mark Kampers" label="Mark Kampers" />
+      <node id="Caroline van der Plas" label="Caroline van der Plas" />
+      <node id="Johan Derksen" label="Johan Derksen" />
+      <node id="Madeleine van Toorenburg" label="Madeleine van Toorenburg" />
+      <node id="Eric Vrijsen" label="Eric Vrijsen" />
+      <node id="Annelies Geradts" label="Annelies Geradts" />
+      <node id="Alexander Pechtold" label="Alexander Pechtold" />
+      <node id="Trendwatcher" label="Trendwatcher" />
+      <node id="Lieke Lamb" label="Lieke Lamb" />
+      <node id="Han ten Broeke" label="Han ten Broeke" />
+      <node id="Hans van Soest" label="Hans van Soest" />
+      <node id="Von der Leyen" label="Von der Leyen" />
+      <node id="Marianne Zwagerman" label="Marianne Zwagerman" />
+      <node id="Marianne" label="Marianne" />
+      <node id="Twitter-duim" label="Twitter-duim" />
+      <node id="Twitter-blunder" label="Twitter-blunder" />
+      <node id="Justine Marcella" label="Justine Marcella" />
+      <node id="prins Andrew" label="prins Andrew" />
+      <node id="Andre Rieu" label="Andre Rieu" />
+      <node id="Second Walz" label="Second Walz" />
+      <node id="Samuel Paty" label="Samuel Paty" />
+      <node id="Mona Keizer van het" label="Mona Keizer van het" />
+      <node id="Dolores Leeuwin" label="Dolores Leeuwin" />
+      <node id="God" label="God" />
+      <node id="Marianne Vos" label="Marianne Vos" />
+      <node id="Pieter Heerma" label="Pieter Heerma" />
+      <node id="Arendo Joustra" label="Arendo Joustra" />
+      <node id="Leonie ter Braak" label="Leonie ter Braak" />
+      <node id="Leonie" label="Leonie" />
+      <node id="Arnold" label="Arnold" />
+      <node id="Schendt" label="Schendt" />
+      <node id="John Lennon" label="John Lennon" />
+      <node id="George Harrison" label="George Harrison" />
+      <node id="Paul McCartney" label="Paul McCartney" />
+      <node id="Ringo Starr" label="Ringo Starr" />
+      <node id="Coen Teulings" label="Coen Teulings" />
+      <node id="Ben van der Burg" label="Ben van der Burg" />
+      <node id="Koningin Maxima" label="Koningin Maxima" />
+      <node id="Bram Endedijk" label="Bram Endedijk" />
+      <node id="Bram" label="Bram" />
+      <node id="Queeny Rajkowski" label="Queeny Rajkowski" />
+      <node id="Ellian" label="Ellian" />
+      <node id="Boris van der Ham" label="Boris van der Ham" />
+      <node id="Wouter van der Goes" label="Wouter van der Goes" />
+      <node id="Jon van Eerd" label="Jon van Eerd" />
+      <node id="eva" label="eva" />
+      <node id="Ron" label="Ron" />
+      <node id="Huib" label="Huib" />
+      <node id="Franciscus" label="Franciscus" />
+      <node id="Rob" label="Rob" />
+      <node id="Faber" label="Faber" />
+      <node id="Eus" label="Eus" />
+      <node id="Emma Heesters" label="Emma Heesters" />
+      <node id="Roxane van Iperen" label="Roxane van Iperen" />
+      <node id="Paul de Leeuw" label="Paul de Leeuw" />
+      <node id="Jetten" label="Jetten" />
+      <node id="Rob Jetten" label="Rob Jetten" />
+      <node id="Angela de Jong" label="Angela de Jong" />
+      <node id="Rob Kemps" label="Rob Kemps" />
+      <node id="Brekelmans" label="Brekelmans" />
+      <node id="Huib Modderkolk" label="Huib Modderkolk" />
+      <node id="Schoof" label="Schoof" />
+      <node id="John F. Kennedy" label="John F. Kennedy" />
+      <node id="Greta Thunberg" label="Greta Thunberg" />
+      <node id="Yves" label="Yves" />
+      <node id="Anika Wells" label="Anika Wells" />
+      <node id="Aart Kramer" label="Aart Kramer" />
+      <node id="Astrid de Koning" label="Astrid de Koning" />
+      <node id="Anouk Kuypers" label="Anouk Kuypers" />
+      <node id="Arjen Koster" label="Arjen Koster" />
+      <node id="Anna Kamphuis" label="Anna Kamphuis" />
+      <node id="Disney-prinses" label="Disney-prinses" />
+      <node id="Will Smith" label="Will Smith" />
+      <node id="Raymond de Roon" label="Raymond de Roon" />
+      <node id="Veldkamp" label="Veldkamp" />
+      <node id="Sorry" label="Sorry" />
+      <node id="stempelmachine" label="stempelmachine" />
+      <node id="Jochem" label="Jochem" />
+      <node id="Axel Springer" label="Axel Springer" />
+      <node id="Mistral" label="Mistral" />
+      <node id="Ai ai ai!" label="Ai ai ai!" />
+      <node id="Jan Joost van Gangelen" label="Jan Joost van Gangelen" />
+      <node id="Rita" label="Rita" />
+      <node id="Roxanne" label="Roxanne" />
+      <node id="Vincent Karremans" label="Vincent Karremans" />
+      <node id="Timmermans van GroenLinks-PvdA" label="Timmermans van GroenLinks-PvdA" />
+      <node id="Timmermans" label="Timmermans" />
+      <node id="Geert..." label="Geert..." />
+      <node id="Stemhulpen" label="Stemhulpen" />
+      <node id="Tilly Norwood" label="Tilly Norwood" />
+      <node id="Eline van der Velden" label="Eline van der Velden" />
+      <node id="Sebastiaan" label="Sebastiaan" />
+      <node id="Eva" label="Eva" />
+      <node id="Eline" label="Eline" />
+      <node id="Tilly" label="Tilly" />
+      <node id="Oliver" label="Oliver" />
+      <node id="Martin Moreiro" label="Martin Moreiro" />
+      <node id="Bontenbal" label="Bontenbal" />
+      <node id="Kok" label="Kok" />
+      <node id="Femke Kok" label="Femke Kok" />
+      <node id="Brigitte" label="Brigitte" />
+      <node id="Max Zuckerberg" label="Max Zuckerberg" />
+      <node id="Tesla" label="Tesla" />
+      <node id="Hitler" label="Hitler" />
+      <node id="Jeffrey Goldberg" label="Jeffrey Goldberg" />
+      <node id="I know that life" label="I know that life" />
+      <node id="When I" label="When I" />
+      <node id="forsake me" label="forsake me" />
+      <node id="Robbie Williams" label="Robbie Williams" />
+      <node id="Thank you" label="Thank you" />
+      <node id="Hey Alexander" label="Hey Alexander" />
+      <node id="what's up" label="what's up" />
+      <node id="Rennie Rijpma" label="Rennie Rijpma" />
+      <node id="Sjoerd den Daas" label="Sjoerd den Daas" />
+      <node id="supermenselijke AI" label="supermenselijke AI" />
+      <node id="Wytse Koetse" label="Wytse Koetse" />
+      <node id="Ahmed Aboutaleb" label="Ahmed Aboutaleb" />
+      <node id="Erik Akerboom" label="Erik Akerboom" />
+      <node id="spionageaanvallen" label="spionageaanvallen" />
+      <node id="it might come with" label="it might come with" />
+      <node id="Go" label="Go" />
+      <node id="Laila" label="Laila" />
+      <node id="Oscar" label="Oscar" />
+      <node id="Nicole Kidman" label="Nicole Kidman" />
+      <node id="Marleen de Rooy" label="Marleen de Rooy" />
+      <node id="Sander Heijne" label="Sander Heijne" />
+      <node id="Sander" label="Sander" />
+      <node id="Nila Ibrahimi" label="Nila Ibrahimi" />
+      <node id="Eva!" label="Eva!" />
+      <node id="Chapeau" label="Chapeau" />
+      <node id="de vooravond" label="de vooravond" />
+      <node id="Mark!" label="Mark!" />
+      <node id="Ridouan Taghi" label="Ridouan Taghi" />
+      <node id="Paul Vugts" label="Paul Vugts" />
+      <node id="Petra Urban" label="Petra Urban" />
+      <node id="Sinan Can" label="Sinan Can" />
+      <node id="Jellie Brouwer" label="Jellie Brouwer" />
+      <node id="Petra Possel" label="Petra Possel" />
+      <node id="Antoinnette Scheulderman" label="Antoinnette Scheulderman" />
+      <node id="Ronald Snijders" label="Ronald Snijders" />
+      <node id="Demonstrations" label="Demonstrations" />
+      <node id="Talitha!" label="Talitha!" />
+      <node id="Rutger" label="Rutger" />
+      <node id="Jaap Jongbloed" label="Jaap Jongbloed" />
+      <node id="Mario" label="Mario" />
+      <node id="David Attenborough" label="David Attenborough" />
+      <node id="pauw" label="pauw" />
+      <node id="Leopold Witte" label="Leopold Witte" />
+      <node id="Juliana" label="Juliana" />
+      <node id="Edward Snowden" label="Edward Snowden" />
+      <node id="Christus" label="Christus" />
+      <node id="Jezus" label="Jezus" />
+      <node id="Anita Witzier" label="Anita Witzier" />
+      <node id="Rob de Nijs" label="Rob de Nijs" />
+      <node id="Sophia" label="Sophia" />
+      <node id="Ellenlange" label="Ellenlange" />
+      <node id="Martijn" label="Martijn" />
+      <node id="Dino" label="Dino" />
+      <node id="Zlatan Ibrahimovic" label="Zlatan Ibrahimovic" />
+      <node id="Lizzy Martinez" label="Lizzy Martinez" />
+      <node id="Masaaki Nagumo" label="Masaaki Nagumo" />
+      <node id="Hazes" label="Hazes" />
+      <node id="Cindy" label="Cindy" />
+      <node id="Annemarie van Gaal" label="Annemarie van Gaal" />
+      <node id="Ilja Gort" label="Ilja Gort" />
+      <node id="Stephen Colbert" label="Stephen Colbert" />
+      <node id="Jorg Hoyer" label="Jorg Hoyer" />
+      <node id="Manon Flier" label="Manon Flier" />
+      <node id="Harald Doornbos" label="Harald Doornbos" />
+      <node id="Jaap Nienhuis" label="Jaap Nienhuis" />
+      <node id="Jelle" label="Jelle" />
+      <node id="Aaf" label="Aaf" />
+      <node id="Ted Cruz" label="Ted Cruz" />
+      <node id="Cruz" label="Cruz" />
+      <node id="Eberhard Van der Laan!" label="Eberhard Van der Laan!" />
+      <node id="Carina van Leeuwen" label="Carina van Leeuwen" />
+      <node id="Roel Wolfert" label="Roel Wolfert" />
+      <node id="Jeroen Stekelenburg" label="Jeroen Stekelenburg" />
+      <node id="Tineke" label="Tineke" />
+      <node id="Bernard Hammelburg" label="Bernard Hammelburg" />
+      <node id="Judith Visser" label="Judith Visser" />
+      <node id="Arjen Lubach" label="Arjen Lubach" />
+      <node id="Hans Sibbel" label="Hans Sibbel" />
+      <node id="Zondagskind" label="Zondagskind" />
+      <node id="robotisdch" label="robotisdch" />
+      <node id="Toon" label="Toon" />
+      <node id="Sinan" label="Sinan" />
+      <node id="Van der Steur" label="Van der Steur" />
+      <node id="Ai!" label="Ai!" />
+      <node id="Raymond Moore" label="Raymond Moore" />
+      <node id="Linda de P6" label="Linda de P6" />
+      <node id="Klaas Dijkhoff" label="Klaas Dijkhoff" />
+      <node id="Robin de Puy" label="Robin de Puy" />
+      <node id="Tim Oliehoek" label="Tim Oliehoek" />
+      <node id="Chris de Graaf" label="Chris de Graaf" />
+      <node id="Tom Dumoulin" label="Tom Dumoulin" />
+      <node id="Thomas Dekker" label="Thomas Dekker" />
+      <node id="SynDROOM" label="SynDROOM" />
+      <node id="Johnny" label="Johnny" />
+      <node id="Mr. Robot" label="Mr. Robot" />
+      <node id="Corstius" label="Corstius" />
+      <node id="Gijs van Dam" label="Gijs van Dam" />
+      <node id="Joyce Roodnat" label="Joyce Roodnat" />
+      <node id="Cat Smits" label="Cat Smits" />
+      <node id="Ivonne Leenhouwers" label="Ivonne Leenhouwers" />
+      <node id="Dionne Stax" label="Dionne Stax" />
+      <node id="Annemiek" label="Annemiek" />
+      <node id="Ronald Giphart" label="Ronald Giphart" />
+      <node id="Sanne Hans" label="Sanne Hans" />
+      <node id="Ellen DeGeneres" label="Ellen DeGeneres" />
+      <node id="Isaac Asimov" label="Isaac Asimov" />
+      <node id="Tommy Wieringa" label="Tommy Wieringa" />
+      <node id="Asimov" label="Asimov" />
+      <node id="Asibot" label="Asibot" />
+      <node id="Miss Montreal" label="Miss Montreal" />
+      <node id="Klaas Knot" label="Klaas Knot" />
+      <node id="demoliton" label="demoliton" />
+      <node id="bar laat" label="bar laat" />
+      <node id="Victoria Warmerdam" label="Victoria Warmerdam" />
+      <node id="Victoria" label="Victoria" />
+      <node id="Nina Gantz" label="Nina Gantz" />
+      <node id="Henry van Loon" label="Henry van Loon" />
+      <node id="Kamala Harris" label="Kamala Harris" />
+      <node id="Elodie Verweij" label="Elodie Verweij" />
+      <node id="Nina" label="Nina" />
+      <node id="Thekla Reuten" label="Thekla Reuten" />
+      <node id="Ellen Parren" label="Ellen Parren" />
+      <node id="Vance" label="Vance" />
+      <node id="Prevost" label="Prevost" />
+      <node id="Helga" label="Helga" />
+      <node id="Medvedev" label="Medvedev" />
+      <node id="Joost Eerdmans" label="Joost Eerdmans" />
+      <node id="Nora" label="Nora" />
+      <node id="Menendez" label="Menendez" />
+      <node id="Ramsey" label="Ramsey" />
+      <node id="Tulsi Gabbard" label="Tulsi Gabbard" />
+      <node id="Trent" label="Trent" />
+      <node id="Thekla Reuten!" label="Thekla Reuten!" />
+      <node id="Lara" label="Lara" />
+      <node id="Halina" label="Halina" />
+      <node id="Mars" label="Mars" />
+      <node id="Ruben Brekelmans" label="Ruben Brekelmans" />
+      <node id="Lucas" label="Lucas" />
+      <node id="Arthur Jussen" label="Arthur Jussen" />
+      <node id="Hans Dorrestijn" label="Hans Dorrestijn" />
+      <node id="Claude Debussy" label="Claude Debussy" />
+      <node id="Arthur" label="Arthur" />
+      <node id="Elodie" label="Elodie" />
+      <node id="Idsinga" label="Idsinga" />
+      <node id="Geert" label="Geert" />
+      <node id="Van Oostenbrugge" label="Van Oostenbrugge" />
+      <node id="Scholz" label="Scholz" />
+      <node id="Chopin" label="Chopin" />
+      <node id="Angel" label="Angel" />
+      <node id="Claude" label="Claude" />
+      <node id="again" label="again" />
+      <node id="sunny day" label="sunny day" />
+      <node id="eve" label="eve" />
+      <node id="Kenneth" label="Kenneth" />
+      <node id="Willie" label="Willie" />
+      <node id="Noa Johannes" label="Noa Johannes" />
+      <node id="Hans Jaap Melissen" label="Hans Jaap Melissen" />
+      <node id="Niels van der Laan" label="Niels van der Laan" />
+      <node id="Rachel Rosier" label="Rachel Rosier" />
+      <node id="Dieuwertje Blok" label="Dieuwertje Blok" />
+      <node id="Niels" label="Niels" />
+      <node id="Rachel" label="Rachel" />
+      <node id="Meneer Timmermans" label="Meneer Timmermans" />
+      <node id="Dieuwertje" label="Dieuwertje" />
+      <node id="Henry" label="Henry" />
+      <node id="spoilen" label="spoilen" />
+      <node id="Ellen" label="Ellen" />
+      <node id="Paul Verhagen" label="Paul Verhagen" />
+      <node id="Kim van Sparrentak" label="Kim van Sparrentak" />
+      <node id="Charlie Hebdo" label="Charlie Hebdo" />
+      <node id="Meta-baas" label="Meta-baas" />
+      <node id="Michiel Romeyn" label="Michiel Romeyn" />
+      <node id="Jacob" label="Jacob" />
+      <node id="Michiel" label="Michiel" />
+      <node id="Jiskefet" label="Jiskefet" />
+      <node id="Sophie" label="Sophie" />
+      <node id="café kockelmann" label="café kockelmann" />
+      <node id="Dick Schoof" label="Dick Schoof" />
+      <node id="Mona Keijzer" label="Mona Keijzer" />
+      <node id="Aleksandr Shabalin" label="Aleksandr Shabalin" />
+      <node id="Geoffrey van Leeuwen" label="Geoffrey van Leeuwen" />
+      <node id="Tomahawks" label="Tomahawks" />
+      <node id="Ursula von der Leyen" label="Ursula von der Leyen" />
+      <node id="Sybrand Buma" label="Sybrand Buma" />
+      <node id="Meneer Brekelmans" label="Meneer Brekelmans" />
+      <node id="Peter Wennink" label="Peter Wennink" />
+      <node id="Ingrid Coenradie" label="Ingrid Coenradie" />
+      <node id="Ruud" label="Ruud" />
+      <node id="Jopie" label="Jopie" />
+      <node id="Peter Nieman" label="Peter Nieman" />
+      <node id="Mats Akkerman" label="Mats Akkerman" />
+      <node id="Marjolein Faber" label="Marjolein Faber" />
+      <node id="Dick Dolman" label="Dick Dolman" />
+      <node id="Janmaat" label="Janmaat" />
+      <node id="heer Wilders" label="heer Wilders" />
+      <node id="Merel Ek van Talpa" label="Merel Ek van Talpa" />
+      <node id="David van Weel" label="David van Weel" />
+      <node id="Mevrouw Faber" label="Mevrouw Faber" />
+      <node id="Jorrit Eijbersen" label="Jorrit Eijbersen" />
+      <node id="Henri Bontebal" label="Henri Bontebal" />
+      <node id="Dassen" label="Dassen" />
+      <node id="Mats" label="Mats" />
+      <node id="Mario Draghi" label="Mario Draghi" />
+      <node id="Anti-drone" label="Anti-drone" />
+      <node id="m" label="m" />
+      <node id="M!" label="M!" />
+      <node id="Miles Davis" label="Miles Davis" />
+      <node id="Prince" label="Prince" />
+      <node id="Thijs Boontjes" label="Thijs Boontjes" />
+      <node id="Ali B" label="Ali B" />
+      <node id="Giel" label="Giel" />
+      <node id="Ali" label="Ali" />
+      <node id="Ali!" label="Ali!" />
+      <node id="Renate van der Bas en Haro Kraak" label="Renate van der Bas en Haro Kraak" />
+    </nodes>
+    <edges>
+      <edge source="de wereld draait door" target="Trump" id="0" weight="4" />
+      <edge source="de wereld draait door" target="Donald Trump" id="1" weight="4" />
+      <edge source="de wereld draait door" target="Ai" id="2" weight="4" />
+      <edge source="de wereld draait door" target="Marc-Marie" id="3" weight="4" />
+      <edge source="de wereld draait door" target="Alexander" id="4" weight="4" />
+      <edge source="de wereld draait door" target="Jan" id="5" weight="4" />
+      <edge source="de wereld draait door" target="Tim Hofman" id="6" weight="3" />
+      <edge source="de wereld draait door" target="Marc-Marie Huijbregts" id="7" weight="3" />
+      <edge source="de wereld draait door" target="Obama" id="8" weight="3" />
+      <edge source="de wereld draait door" target="Usain Bolt" id="9" weight="3" />
+      <edge source="de wereld draait door" target="Mark Zuckerberg" id="10" weight="3" />
+      <edge source="de wereld draait door" target="Alexander Klöpping" id="11" weight="3" />
+      <edge source="de wereld draait door" target="Max" id="12" weight="3" />
+      <edge source="de wereld draait door" target="Beyonce" id="13" weight="2" />
+      <edge source="de wereld draait door" target="Papa" id="14" weight="2" />
+      <edge source="de wereld draait door" target="Wouter van Noort" id="15" weight="2" />
+      <edge source="de wereld draait door" target="Clinton" id="16" weight="2" />
+      <edge source="de wereld draait door" target="Jeroen" id="17" weight="2" />
+      <edge source="de wereld draait door" target="Geert Wilders" id="18" weight="2" />
+      <edge source="de wereld draait door" target="Cosby" id="19" weight="2" />
+      <edge source="de wereld draait door" target="Sylvana" id="20" weight="2" />
+      <edge source="de wereld draait door" target="Elon" id="21" weight="2" />
+      <edge source="de wereld draait door" target="Bill Gates" id="22" weight="2" />
+      <edge source="de wereld draait door" target="Frank" id="23" weight="2" />
+      <edge source="de wereld draait door" target="Tom" id="24" weight="2" />
+      <edge source="de wereld draait door" target="Rutte" id="25" weight="2" />
+      <edge source="de wereld draait door" target="Willy" id="26" weight="2" />
+      <edge source="de wereld draait door" target="Maxima" id="27" weight="2" />
+      <edge source="de wereld draait door" target="Hillary Clinton" id="28" weight="2" />
+      <edge source="de wereld draait door" target="Stephen Hawking" id="29" weight="2" />
+      <edge source="de wereld draait door" target="Peter Pannekoek" id="30" weight="2" />
+      <edge source="de wereld draait door" target="Paul" id="31" weight="2" />
+      <edge source="de wereld draait door" target="Dirk Jan Roeleven" id="32" weight="1" />
+      <edge source="de wereld draait door" target="Frans Timmermans" id="33" weight="1" />
+      <edge source="de wereld draait door" target="Rufus Wrainwight" id="34" weight="1" />
+      <edge source="de wereld draait door" target="Nico" id="35" weight="1" />
+      <edge source="de wereld draait door" target="Lou de Jong" id="36" weight="1" />
+      <edge source="de wereld draait door" target="Noah Trebble" id="37" weight="1" />
+      <edge source="de wereld draait door" target="Ronaldo" id="38" weight="1" />
+      <edge source="de wereld draait door" target="Marco van Basten" id="39" weight="1" />
+      <edge source="de wereld draait door" target="Van Swieten" id="40" weight="1" />
+      <edge source="de wereld draait door" target="Einstein" id="41" weight="1" />
+      <edge source="de wereld draait door" target="mastersurveillance" id="42" weight="1" />
+      <edge source="de wereld draait door" target="Alexander Prins" id="43" weight="1" />
+      <edge source="de wereld draait door" target="Henk" id="44" weight="1" />
+      <edge source="de wereld draait door" target="Georgina Verbaan" id="45" weight="1" />
+      <edge source="de wereld draait door" target="Julien Lizeroux" id="46" weight="1" />
+      <edge source="de wereld draait door" target="Stephan Enter" id="47" weight="1" />
+      <edge source="de wereld draait door" target="George" id="48" weight="1" />
+      <edge source="de wereld draait door" target="on hold" id="49" weight="1" />
+      <edge source="de wereld draait door" target="Andrew Makkinga" id="50" weight="1" />
+      <edge source="de wereld draait door" target="Natacha Harlequin" id="51" weight="1" />
+      <edge source="de wereld draait door" target="Barbara van Beukering" id="52" weight="1" />
+      <edge source="de wereld draait door" target="Frank Sanders" id="53" weight="1" />
+      <edge source="de wereld draait door" target="Mienke Schaberg" id="54" weight="1" />
+      <edge source="de wereld draait door" target="Malcolm X" id="55" weight="1" />
+      <edge source="de wereld draait door" target="Andrew" id="56" weight="1" />
+      <edge source="de wereld draait door" target="Malcolm Little" id="57" weight="1" />
+      <edge source="de wereld draait door" target="Elijah Muhammad" id="58" weight="1" />
+      <edge source="de wereld draait door" target="Glenn" id="59" weight="1" />
+      <edge source="de wereld draait door" target="Martin Luther" id="60" weight="1" />
+      <edge source="de wereld draait door" target="Malcolm" id="61" weight="1" />
+      <edge source="de wereld draait door" target="Martin Luther King" id="62" weight="1" />
+      <edge source="de wereld draait door" target="Natacha" id="63" weight="1" />
+      <edge source="de wereld draait door" target="Hoover" id="64" weight="1" />
+      <edge source="de wereld draait door" target="Aziz" id="65" weight="1" />
+      <edge source="de wereld draait door" target="Cecile Narinx" id="66" weight="1" />
+      <edge source="de wereld draait door" target="Tom Hoffman" id="67" weight="1" />
+      <edge source="de wereld draait door" target="Dafne Schippers" id="68" weight="1" />
+      <edge source="de wereld draait door" target="Alec Baldwin Trump" id="69" weight="1" />
+      <edge source="de wereld draait door" target="Sylvana Simons" id="70" weight="1" />
+      <edge source="de wereld draait door" target="Johan Cruijff" id="71" weight="1" />
+      <edge source="de wereld draait door" target="David Lynch" id="72" weight="1" />
+      <edge source="de wereld draait door" target="Jeffrey" id="73" weight="1" />
+      <edge source="de wereld draait door" target="David" id="74" weight="1" />
+      <edge source="de wereld draait door" target="Thom" id="75" weight="1" />
+      <edge source="de wereld draait door" target="Glass Animals" id="76" weight="1" />
+      <edge source="de wereld draait door" target="I am Bolt" id="77" weight="1" />
+      <edge source="de wereld draait door" target="it right" id="78" weight="1" />
+      <edge source="de wereld draait door" target="Dave Hakkens" id="79" weight="1" />
+      <edge source="de wereld draait door" target="Ronald Koeman" id="80" weight="1" />
+      <edge source="de wereld draait door" target="Everton" id="81" weight="1" />
+      <edge source="de wereld draait door" target="Louis van Gaal" id="82" weight="1" />
+      <edge source="de wereld draait door" target="Feller" id="83" weight="1" />
+      <edge source="de wereld draait door" target="Nina Simone" id="84" weight="1" />
+      <edge source="de wereld draait door" target="Solange" id="85" weight="1" />
+      <edge source="de wereld draait door" target="Herman Pleij" id="86" weight="1" />
+      <edge source="de wereld draait door" target="Gregory Porter" id="87" weight="1" />
+      <edge source="de wereld draait door" target="Leona Philippo" id="88" weight="1" />
+      <edge source="de wereld draait door" target="Frank Boeijen" id="89" weight="1" />
+      <edge source="de wereld draait door" target="The Crown" id="90" weight="1" />
+      <edge source="de wereld draait door" target="gaaf" id="91" weight="1" />
+      <edge source="de wereld draait door" target="anti-Clinton" id="92" weight="1" />
+      <edge source="de wereld draait door" target="Wouter" id="93" weight="1" />
+      <edge source="de wereld draait door" target="Sylvana bij Pauw" id="94" weight="1" />
+      <edge source="de wereld draait door" target="Sylvana..." id="95" weight="1" />
+      <edge source="de wereld draait door" target="Simpsons" id="96" weight="1" />
+      <edge source="de wereld draait door" target="pro-Trump" id="97" weight="1" />
+      <edge source="de wereld draait door" target="Paulien Cornelissen" id="98" weight="1" />
+      <edge source="de wereld draait door" target="Jan Donkers" id="99" weight="1" />
+      <edge source="Trump" target="goedemorgen nederland" id="100" weight="3" />
+      <edge source="Trump" target="eva" id="101" weight="9" />
+      <edge source="Trump" target="pauw" id="102" weight="3" />
+      <edge source="Trump" target="bar laat" id="103" weight="4" />
+      <edge source="Trump" target="café kockelmann" id="104" weight="3" />
+      <edge source="Donald Trump" target="goedemorgen nederland" id="105" weight="5" />
+      <edge source="Donald Trump" target="eva" id="106" weight="4" />
+      <edge source="Donald Trump" target="café kockelmann" id="107" weight="1" />
+      <edge source="Ai" target="goedemorgen nederland" id="108" weight="2" />
+      <edge source="Alexander" target="jinek" id="109" weight="1" />
+      <edge source="Alexander" target="eva" id="110" weight="7" />
+      <edge source="Jan" target="jinek" id="111" weight="1" />
+      <edge source="Obama" target="pauw" id="112" weight="1" />
+      <edge source="Usain Bolt" target="m" id="113" weight="1" />
+      <edge source="Mark Zuckerberg" target="pauw" id="114" weight="1" />
+      <edge source="Mark Zuckerberg" target="bar laat" id="115" weight="1" />
+      <edge source="Mark Zuckerberg" target="m" id="116" weight="1" />
+      <edge source="Alexander Klöpping" target="eva" id="117" weight="10" />
+      <edge source="Alexander Klöpping" target="pauw" id="118" weight="1" />
+      <edge source="Beyonce" target="jinek" id="119" weight="1" />
+      <edge source="Clinton" target="goedemorgen nederland" id="120" weight="3" />
+      <edge source="Geert Wilders" target="goedemorgen nederland" id="121" weight="5" />
+      <edge source="Geert Wilders" target="eva" id="122" weight="3" />
+      <edge source="Geert Wilders" target="pauw" id="123" weight="1" />
+      <edge source="Geert Wilders" target="café kockelmann" id="124" weight="3" />
+      <edge source="Elon" target="goedemorgen nederland" id="125" weight="2" />
+      <edge source="Elon" target="eva" id="126" weight="2" />
+      <edge source="Frank" target="goedemorgen nederland" id="127" weight="8" />
+      <edge source="Tom" target="eva" id="128" weight="1" />
+      <edge source="Rutte" target="jinek" id="129" weight="1" />
+      <edge source="Rutte" target="goedemorgen nederland" id="130" weight="10" />
+      <edge source="Rutte" target="de vooravond" id="131" weight="1" />
+      <edge source="Maxima" target="bar laat" id="132" weight="1" />
+      <edge source="Hillary Clinton" target="goedemorgen nederland" id="133" weight="2" />
+      <edge source="Peter Pannekoek" target="eva" id="134" weight="1" />
+      <edge source="Frans Timmermans" target="goedemorgen nederland" id="135" weight="2" />
+      <edge source="Frans Timmermans" target="eva" id="136" weight="2" />
+      <edge source="Frans Timmermans" target="bar laat" id="137" weight="1" />
+      <edge source="Johan Cruijff" target="goedemorgen nederland" id="138" weight="2" />
+      <edge source="Johan Cruijff" target="eva" id="139" weight="1" />
+      <edge source="David" target="de vooravond" id="140" weight="1" />
+      <edge source="Wouter" target="goedemorgen nederland" id="141" weight="3" />
+      <edge source="Wouter" target="eva" id="142" weight="3" />
+      <edge source="jinek" target="Jinek" id="143" weight="2" />
+      <edge source="jinek" target="koningin Elizabeth" id="144" weight="2" />
+      <edge source="jinek" target="Chantal" id="145" weight="2" />
+      <edge source="jinek" target="Kiki Bertens" id="146" weight="1" />
+      <edge source="jinek" target="Kuznetsova" id="147" weight="1" />
+      <edge source="jinek" target="al." id="148" weight="1" />
+      <edge source="jinek" target="Bruno Mars" id="149" weight="1" />
+      <edge source="jinek" target="Exact" id="150" weight="1" />
+      <edge source="jinek" target="Bas" id="151" weight="1" />
+      <edge source="jinek" target="Facebookfeed" id="152" weight="1" />
+      <edge source="jinek" target="Alexander Klopping" id="153" weight="1" />
+      <edge source="jinek" target="Claudia" id="154" weight="1" />
+      <edge source="jinek" target="Ashton Brothers" id="155" weight="1" />
+      <edge source="jinek" target="Andre K." id="156" weight="1" />
+      <edge source="jinek" target="Cornel" id="157" weight="1" />
+      <edge source="jinek" target="Rembrandt" id="158" weight="1" />
+      <edge source="jinek" target="Inge de Bruijn" id="159" weight="1" />
+      <edge source="jinek" target="Gijs" id="160" weight="1" />
+      <edge source="jinek" target="Redbad" id="161" weight="1" />
+      <edge source="jinek" target="Arnold Schwarzenegger" id="162" weight="1" />
+      <edge source="jinek" target="Sylvester Stallone" id="163" weight="1" />
+      <edge source="jinek" target="Johan Cruyff Foundation" id="164" weight="1" />
+      <edge source="jinek" target="Sinterklaas" id="165" weight="1" />
+      <edge source="jinek" target="Michael van Z." id="166" weight="1" />
+      <edge source="jinek" target="Bo van Spilbeeck" id="167" weight="1" />
+      <edge source="jinek" target="Starman" id="168" weight="1" />
+      <edge source="jinek" target="Bowie" id="169" weight="1" />
+      <edge source="jinek" target="kees" id="170" weight="1" />
+      <edge source="jinek" target="Boe!" id="171" weight="1" />
+      <edge source="jinek" target="Mark Rutte" id="172" weight="1" />
+      <edge source="jinek" target="Joost" id="173" weight="1" />
+      <edge source="jinek" target="dank" id="174" weight="1" />
+      <edge source="jinek" target="Tarik Z." id="175" weight="1" />
+      <edge source="jinek" target="Arie Boomsma" id="176" weight="1" />
+      <edge source="jinek" target="Tim Deurvorst" id="177" weight="1" />
+      <edge source="jinek" target="Wichert Kooloos" id="178" weight="1" />
+      <edge source="jinek" target="Rick" id="179" weight="1" />
+      <edge source="jinek" target="Bolt" id="180" weight="1" />
+      <edge source="jinek" target="Jort Kelder" id="181" weight="1" />
+      <edge source="jinek" target="Derk Bolt" id="182" weight="1" />
+      <edge source="jinek" target="Tijn" id="183" weight="1" />
+      <edge source="jinek" target="Eva Chatbot" id="184" weight="1" />
+      <edge source="jinek" target="dank mijn gasten" id="185" weight="1" />
+      <edge source="jinek" target="Ruben Smit" id="186" weight="1" />
+      <edge source="jinek" target="Ruben" id="187" weight="1" />
+      <edge source="jinek" target="Joost van der Valk" id="188" weight="1" />
+      <edge source="jinek" target="Levi!" id="189" weight="1" />
+      <edge source="jinek" target="Peter Sagan" id="190" weight="1" />
+      <edge source="jinek" target="Maarten" id="191" weight="1" />
+      <edge source="jinek" target="Anne Schulp" id="192" weight="1" />
+      <edge source="jinek" target="Peter R. De Vries" id="193" weight="1" />
+      <edge source="jinek" target="Marianne Thieme" id="194" weight="1" />
+      <edge source="jinek" target="Jonnie Boer" id="195" weight="1" />
+      <edge source="jinek" target="Paul Fagel" id="196" weight="1" />
+      <edge source="jinek" target="Robert Kranenborg" id="197" weight="1" />
+      <edge source="jinek" target="Macy" id="198" weight="1" />
+      <edge source="jinek" target="Jean-Claude Juncker" id="199" weight="1" />
+      <edge source="jinek" target="Peter R. de Vries" id="200" weight="1" />
+      <edge source="jinek" target="Emma Blanchard" id="201" weight="1" />
+      <edge source="jinek" target="Dione de Graaff" id="202" weight="1" />
+      <edge source="jinek" target="Gert van 't Hof" id="203" weight="1" />
+      <edge source="jinek" target="Erik Dijkstra" id="204" weight="1" />
+      <edge source="jinek" target="Frank Evenblij" id="205" weight="1" />
+      <edge source="jinek" target="Jeroen Wielaert" id="206" weight="1" />
+      <edge source="jinek" target="Rogier Warnawa" id="207" weight="1" />
+      <edge source="jinek" target="Rogier" id="208" weight="1" />
+      <edge source="jinek" target="Thomas van Vught" id="209" weight="1" />
+      <edge source="jinek" target="Peter" id="210" weight="1" />
+      <edge source="Exact" target="eva" id="211" weight="1" />
+      <edge source="Sinterklaas" target="goedemorgen nederland" id="212" weight="4" />
+      <edge source="Mark Rutte" target="goedemorgen nederland" id="213" weight="4" />
+      <edge source="Mark Rutte" target="de vooravond" id="214" weight="1" />
+      <edge source="Mark Rutte" target="café kockelmann" id="215" weight="2" />
+      <edge source="dank" target="goedemorgen nederland" id="216" weight="5" />
+      <edge source="dank" target="eva" id="217" weight="2" />
+      <edge source="dank" target="bar laat" id="218" weight="1" />
+      <edge source="dank" target="m" id="219" weight="1" />
+      <edge source="Maarten" target="eva" id="220" weight="1" />
+      <edge source="Peter R. De Vries" target="pauw" id="221" weight="1" />
+      <edge source="goedemorgen nederland" target="Maaike" id="222" weight="14" />
+      <edge source="goedemorgen nederland" target="Jill" id="223" weight="13" />
+      <edge source="goedemorgen nederland" target="Sven Kockelmann" id="224" weight="12" />
+      <edge source="goedemorgen nederland" target="Welmoed" id="225" weight="9" />
+      <edge source="goedemorgen nederland" target="Rick Nieman" id="226" weight="7" />
+      <edge source="goedemorgen nederland" target="Linda" id="227" weight="7" />
+      <edge source="goedemorgen nederland" target="Jean Dohmen" id="228" weight="7" />
+      <edge source="goedemorgen nederland" target="Maaike Timmerman" id="229" weight="7" />
+      <edge source="goedemorgen nederland" target="Farid Tabarki" id="230" weight="6" />
+      <edge source="goedemorgen nederland" target="Lilian Marijnissen" id="231" weight="5" />
+      <edge source="goedemorgen nederland" target="Annemarie" id="232" weight="5" />
+      <edge source="goedemorgen nederland" target="Linda Geerdink" id="233" weight="5" />
+      <edge source="goedemorgen nederland" target="Wouter de Winther" id="234" weight="5" />
+      <edge source="goedemorgen nederland" target="Poetin" id="235" weight="4" />
+      <edge source="goedemorgen nederland" target="Marlene Bakker" id="236" weight="4" />
+      <edge source="goedemorgen nederland" target="Tanja" id="237" weight="4" />
+      <edge source="goedemorgen nederland" target="Erica Terpstra" id="238" weight="4" />
+      <edge source="goedemorgen nederland" target="Eric Postma" id="239" weight="4" />
+      <edge source="goedemorgen nederland" target="Jan Driessen" id="240" weight="4" />
+      <edge source="goedemorgen nederland" target="Hella Hueck" id="241" weight="4" />
+      <edge source="goedemorgen nederland" target="John" id="242" weight="4" />
+      <edge source="goedemorgen nederland" target="Edith Schippers" id="243" weight="4" />
+      <edge source="goedemorgen nederland" target="Maria" id="244" weight="4" />
+      <edge source="goedemorgen nederland" target="Jort" id="245" weight="4" />
+      <edge source="goedemorgen nederland" target="Mark" id="246" weight="4" />
+      <edge source="goedemorgen nederland" target="Zora" id="247" weight="4" />
+      <edge source="goedemorgen nederland" target="Peter Wijninga" id="248" weight="4" />
+      <edge source="goedemorgen nederland" target="Welmoed Sijtsma" id="249" weight="4" />
+      <edge source="goedemorgen nederland" target="Nikki Herr" id="250" weight="4" />
+      <edge source="goedemorgen nederland" target="Johnson" id="251" weight="3" />
+      <edge source="goedemorgen nederland" target="Thom van Campen" id="252" weight="3" />
+      <edge source="goedemorgen nederland" target="den Burg" id="253" weight="3" />
+      <edge source="goedemorgen nederland" target="Mark Teurlings" id="254" weight="3" />
+      <edge source="goedemorgen nederland" target="Justine" id="255" weight="3" />
+      <edge source="goedemorgen nederland" target="Afshin Ellian" id="256" weight="3" />
+      <edge source="goedemorgen nederland" target="James Foley" id="257" weight="3" />
+      <edge source="goedemorgen nederland" target="Robert van de Roer" id="258" weight="3" />
+      <edge source="goedemorgen nederland" target="Martijn de Greve" id="259" weight="3" />
+      <edge source="goedemorgen nederland" target="Barbara" id="260" weight="3" />
+      <edge source="goedemorgen nederland" target="Pieter Omtzigt" id="261" weight="3" />
+      <edge source="goedemorgen nederland" target="Mark Kampers" id="262" weight="3" />
+      <edge source="goedemorgen nederland" target="Caroline van der Plas" id="263" weight="3" />
+      <edge source="goedemorgen nederland" target="Johan Derksen" id="264" weight="3" />
+      <edge source="goedemorgen nederland" target="Madeleine van Toorenburg" id="265" weight="3" />
+      <edge source="goedemorgen nederland" target="Eric Vrijsen" id="266" weight="3" />
+      <edge source="goedemorgen nederland" target="Annelies Geradts" id="267" weight="3" />
+      <edge source="goedemorgen nederland" target="Alexander Pechtold" id="268" weight="3" />
+      <edge source="goedemorgen nederland" target="Trendwatcher" id="269" weight="3" />
+      <edge source="goedemorgen nederland" target="Lieke Lamb" id="270" weight="3" />
+      <edge source="goedemorgen nederland" target="Han ten Broeke" id="271" weight="3" />
+      <edge source="goedemorgen nederland" target="Hans van Soest" id="272" weight="3" />
+      <edge source="goedemorgen nederland" target="Von der Leyen" id="273" weight="2" />
+      <edge source="goedemorgen nederland" target="Marianne Zwagerman" id="274" weight="2" />
+      <edge source="goedemorgen nederland" target="Marianne" id="275" weight="2" />
+      <edge source="goedemorgen nederland" target="Twitter-duim" id="276" weight="2" />
+      <edge source="goedemorgen nederland" target="Twitter-blunder" id="277" weight="2" />
+      <edge source="goedemorgen nederland" target="Justine Marcella" id="278" weight="2" />
+      <edge source="goedemorgen nederland" target="prins Andrew" id="279" weight="2" />
+      <edge source="goedemorgen nederland" target="Andre Rieu" id="280" weight="2" />
+      <edge source="goedemorgen nederland" target="Second Walz" id="281" weight="2" />
+      <edge source="goedemorgen nederland" target="Samuel Paty" id="282" weight="2" />
+      <edge source="goedemorgen nederland" target="Mona Keizer van het" id="283" weight="2" />
+      <edge source="goedemorgen nederland" target="Dolores Leeuwin" id="284" weight="2" />
+      <edge source="goedemorgen nederland" target="God" id="285" weight="2" />
+      <edge source="goedemorgen nederland" target="Marianne Vos" id="286" weight="2" />
+      <edge source="goedemorgen nederland" target="Pieter Heerma" id="287" weight="2" />
+      <edge source="goedemorgen nederland" target="Arendo Joustra" id="288" weight="2" />
+      <edge source="goedemorgen nederland" target="Leonie ter Braak" id="289" weight="2" />
+      <edge source="goedemorgen nederland" target="Leonie" id="290" weight="2" />
+      <edge source="goedemorgen nederland" target="Arnold" id="291" weight="2" />
+      <edge source="goedemorgen nederland" target="Schendt" id="292" weight="2" />
+      <edge source="goedemorgen nederland" target="John Lennon" id="293" weight="2" />
+      <edge source="goedemorgen nederland" target="George Harrison" id="294" weight="2" />
+      <edge source="goedemorgen nederland" target="Paul McCartney" id="295" weight="2" />
+      <edge source="goedemorgen nederland" target="Ringo Starr" id="296" weight="2" />
+      <edge source="goedemorgen nederland" target="Coen Teulings" id="297" weight="2" />
+      <edge source="goedemorgen nederland" target="Ben van der Burg" id="298" weight="2" />
+      <edge source="goedemorgen nederland" target="Koningin Maxima" id="299" weight="2" />
+      <edge source="goedemorgen nederland" target="Bram Endedijk" id="300" weight="2" />
+      <edge source="goedemorgen nederland" target="Bram" id="301" weight="2" />
+      <edge source="goedemorgen nederland" target="Queeny Rajkowski" id="302" weight="2" />
+      <edge source="goedemorgen nederland" target="Ellian" id="303" weight="2" />
+      <edge source="goedemorgen nederland" target="Boris van der Ham" id="304" weight="2" />
+      <edge source="goedemorgen nederland" target="Wouter van der Goes" id="305" weight="2" />
+      <edge source="goedemorgen nederland" target="Jon van Eerd" id="306" weight="2" />
+      <edge source="Sven Kockelmann" target="café kockelmann" id="307" weight="1" />
+      <edge source="Poetin" target="eva" id="308" weight="3" />
+      <edge source="Maria" target="eva" id="309" weight="1" />
+      <edge source="Pieter Omtzigt" target="pauw" id="310" weight="1" />
+      <edge source="Caroline van der Plas" target="café kockelmann" id="311" weight="1" />
+      <edge source="eva" target="Ron" id="312" weight="3" />
+      <edge source="eva" target="Huib" id="313" weight="3" />
+      <edge source="eva" target="Franciscus" id="314" weight="2" />
+      <edge source="eva" target="Rob" id="315" weight="2" />
+      <edge source="eva" target="Faber" id="316" weight="2" />
+      <edge source="eva" target="Eus" id="317" weight="2" />
+      <edge source="eva" target="Emma Heesters" id="318" weight="2" />
+      <edge source="eva" target="Roxane van Iperen" id="319" weight="2" />
+      <edge source="eva" target="Paul de Leeuw" id="320" weight="2" />
+      <edge source="eva" target="Jetten" id="321" weight="2" />
+      <edge source="eva" target="Rob Jetten" id="322" weight="2" />
+      <edge source="eva" target="Angela de Jong" id="323" weight="2" />
+      <edge source="eva" target="Rob Kemps" id="324" weight="2" />
+      <edge source="eva" target="Brekelmans" id="325" weight="2" />
+      <edge source="eva" target="Huib Modderkolk" id="326" weight="2" />
+      <edge source="eva" target="Schoof" id="327" weight="2" />
+      <edge source="eva" target="John F. Kennedy" id="328" weight="1" />
+      <edge source="eva" target="Greta Thunberg" id="329" weight="1" />
+      <edge source="eva" target="Yves" id="330" weight="1" />
+      <edge source="eva" target="Anika Wells" id="331" weight="1" />
+      <edge source="eva" target="Aart Kramer" id="332" weight="1" />
+      <edge source="eva" target="Astrid de Koning" id="333" weight="1" />
+      <edge source="eva" target="Anouk Kuypers" id="334" weight="1" />
+      <edge source="eva" target="Arjen Koster" id="335" weight="1" />
+      <edge source="eva" target="Anna Kamphuis" id="336" weight="1" />
+      <edge source="eva" target="Disney-prinses" id="337" weight="1" />
+      <edge source="eva" target="Will Smith" id="338" weight="1" />
+      <edge source="eva" target="Raymond de Roon" id="339" weight="1" />
+      <edge source="eva" target="Veldkamp" id="340" weight="1" />
+      <edge source="eva" target="Sorry" id="341" weight="1" />
+      <edge source="eva" target="stempelmachine" id="342" weight="1" />
+      <edge source="eva" target="Jochem" id="343" weight="1" />
+      <edge source="eva" target="Axel Springer" id="344" weight="1" />
+      <edge source="eva" target="Mistral" id="345" weight="1" />
+      <edge source="eva" target="Ai ai ai!" id="346" weight="1" />
+      <edge source="eva" target="Jan Joost van Gangelen" id="347" weight="1" />
+      <edge source="eva" target="Rita" id="348" weight="1" />
+      <edge source="eva" target="Roxanne" id="349" weight="1" />
+      <edge source="eva" target="Vincent Karremans" id="350" weight="1" />
+      <edge source="eva" target="Timmermans van GroenLinks-PvdA" id="351" weight="1" />
+      <edge source="eva" target="Timmermans" id="352" weight="1" />
+      <edge source="eva" target="Geert..." id="353" weight="1" />
+      <edge source="eva" target="Stemhulpen" id="354" weight="1" />
+      <edge source="eva" target="Tilly Norwood" id="355" weight="1" />
+      <edge source="eva" target="Eline van der Velden" id="356" weight="1" />
+      <edge source="eva" target="Sebastiaan" id="357" weight="1" />
+      <edge source="eva" target="Eva" id="358" weight="1" />
+      <edge source="eva" target="Eline" id="359" weight="1" />
+      <edge source="eva" target="Tilly" id="360" weight="1" />
+      <edge source="eva" target="Oliver" id="361" weight="1" />
+      <edge source="eva" target="Martin Moreiro" id="362" weight="1" />
+      <edge source="eva" target="Bontenbal" id="363" weight="1" />
+      <edge source="eva" target="Kok" id="364" weight="1" />
+      <edge source="eva" target="Femke Kok" id="365" weight="1" />
+      <edge source="eva" target="Brigitte" id="366" weight="1" />
+      <edge source="eva" target="Max Zuckerberg" id="367" weight="1" />
+      <edge source="eva" target="Tesla" id="368" weight="1" />
+      <edge source="eva" target="Hitler" id="369" weight="1" />
+      <edge source="eva" target="Jeffrey Goldberg" id="370" weight="1" />
+      <edge source="eva" target="I know that life" id="371" weight="1" />
+      <edge source="eva" target="When I" id="372" weight="1" />
+      <edge source="eva" target="forsake me" id="373" weight="1" />
+      <edge source="eva" target="Robbie Williams" id="374" weight="1" />
+      <edge source="eva" target="Thank you" id="375" weight="1" />
+      <edge source="eva" target="Hey Alexander" id="376" weight="1" />
+      <edge source="eva" target="what's up" id="377" weight="1" />
+      <edge source="eva" target="Rennie Rijpma" id="378" weight="1" />
+      <edge source="eva" target="Sjoerd den Daas" id="379" weight="1" />
+      <edge source="eva" target="supermenselijke AI" id="380" weight="1" />
+      <edge source="eva" target="Wytse Koetse" id="381" weight="1" />
+      <edge source="eva" target="Ahmed Aboutaleb" id="382" weight="1" />
+      <edge source="eva" target="Erik Akerboom" id="383" weight="1" />
+      <edge source="eva" target="spionageaanvallen" id="384" weight="1" />
+      <edge source="eva" target="it might come with" id="385" weight="1" />
+      <edge source="eva" target="Go" id="386" weight="1" />
+      <edge source="eva" target="Laila" id="387" weight="1" />
+      <edge source="eva" target="Oscar" id="388" weight="1" />
+      <edge source="eva" target="Nicole Kidman" id="389" weight="1" />
+      <edge source="eva" target="Marleen de Rooy" id="390" weight="1" />
+      <edge source="eva" target="Sander Heijne" id="391" weight="1" />
+      <edge source="eva" target="Sander" id="392" weight="1" />
+      <edge source="eva" target="Nila Ibrahimi" id="393" weight="1" />
+      <edge source="eva" target="Eva!" id="394" weight="1" />
+      <edge source="eva" target="Chapeau" id="395" weight="1" />
+      <edge source="Franciscus" target="bar laat" id="396" weight="1" />
+      <edge source="Faber" target="café kockelmann" id="397" weight="1" />
+      <edge source="Angela de Jong" target="pauw" id="398" weight="1" />
+      <edge source="Angela de Jong" target="m" id="399" weight="1" />
+      <edge source="Huib Modderkolk" target="m" id="400" weight="1" />
+      <edge source="Schoof" target="bar laat" id="401" weight="1" />
+      <edge source="Sorry" target="bar laat" id="402" weight="1" />
+      <edge source="Timmermans" target="café kockelmann" id="403" weight="1" />
+      <edge source="Oscar" target="bar laat" id="404" weight="2" />
+      <edge source="de vooravond" target="Mark!" id="405" weight="1" />
+      <edge source="de vooravond" target="Ridouan Taghi" id="406" weight="1" />
+      <edge source="de vooravond" target="Paul Vugts" id="407" weight="1" />
+      <edge source="de vooravond" target="Petra Urban" id="408" weight="1" />
+      <edge source="de vooravond" target="Sinan Can" id="409" weight="1" />
+      <edge source="de vooravond" target="Jellie Brouwer" id="410" weight="1" />
+      <edge source="de vooravond" target="Petra Possel" id="411" weight="1" />
+      <edge source="de vooravond" target="Antoinnette Scheulderman" id="412" weight="1" />
+      <edge source="de vooravond" target="Ronald Snijders" id="413" weight="1" />
+      <edge source="de vooravond" target="Demonstrations" id="414" weight="1" />
+      <edge source="de vooravond" target="Talitha!" id="415" weight="1" />
+      <edge source="de vooravond" target="Rutger" id="416" weight="1" />
+      <edge source="de vooravond" target="Jaap Jongbloed" id="417" weight="1" />
+      <edge source="de vooravond" target="Mario" id="418" weight="1" />
+      <edge source="de vooravond" target="David Attenborough" id="419" weight="1" />
+      <edge source="pauw" target="Leopold Witte" id="420" weight="1" />
+      <edge source="pauw" target="Juliana" id="421" weight="1" />
+      <edge source="pauw" target="Edward Snowden" id="422" weight="1" />
+      <edge source="pauw" target="Christus" id="423" weight="1" />
+      <edge source="pauw" target="Jezus" id="424" weight="1" />
+      <edge source="pauw" target="Anita Witzier" id="425" weight="1" />
+      <edge source="pauw" target="Rob de Nijs" id="426" weight="1" />
+      <edge source="pauw" target="Sophia" id="427" weight="1" />
+      <edge source="pauw" target="Ellenlange" id="428" weight="1" />
+      <edge source="pauw" target="Martijn" id="429" weight="1" />
+      <edge source="pauw" target="Dino" id="430" weight="1" />
+      <edge source="pauw" target="Zlatan Ibrahimovic" id="431" weight="1" />
+      <edge source="pauw" target="Lizzy Martinez" id="432" weight="1" />
+      <edge source="pauw" target="Masaaki Nagumo" id="433" weight="1" />
+      <edge source="pauw" target="Hazes" id="434" weight="1" />
+      <edge source="pauw" target="Cindy" id="435" weight="1" />
+      <edge source="pauw" target="Annemarie van Gaal" id="436" weight="1" />
+      <edge source="pauw" target="Ilja Gort" id="437" weight="1" />
+      <edge source="pauw" target="Stephen Colbert" id="438" weight="1" />
+      <edge source="pauw" target="Jorg Hoyer" id="439" weight="1" />
+      <edge source="pauw" target="Manon Flier" id="440" weight="1" />
+      <edge source="pauw" target="Harald Doornbos" id="441" weight="1" />
+      <edge source="pauw" target="Jaap Nienhuis" id="442" weight="1" />
+      <edge source="pauw" target="Jelle" id="443" weight="1" />
+      <edge source="pauw" target="Aaf" id="444" weight="1" />
+      <edge source="pauw" target="Ted Cruz" id="445" weight="1" />
+      <edge source="pauw" target="Cruz" id="446" weight="1" />
+      <edge source="pauw" target="Eberhard Van der Laan!" id="447" weight="1" />
+      <edge source="pauw" target="Carina van Leeuwen" id="448" weight="1" />
+      <edge source="pauw" target="Roel Wolfert" id="449" weight="1" />
+      <edge source="pauw" target="Jeroen Stekelenburg" id="450" weight="1" />
+      <edge source="pauw" target="Tineke" id="451" weight="1" />
+      <edge source="pauw" target="Bernard Hammelburg" id="452" weight="1" />
+      <edge source="pauw" target="Judith Visser" id="453" weight="1" />
+      <edge source="pauw" target="Arjen Lubach" id="454" weight="1" />
+      <edge source="pauw" target="Hans Sibbel" id="455" weight="1" />
+      <edge source="pauw" target="Zondagskind" id="456" weight="1" />
+      <edge source="pauw" target="robotisdch" id="457" weight="1" />
+      <edge source="pauw" target="Toon" id="458" weight="1" />
+      <edge source="pauw" target="Sinan" id="459" weight="1" />
+      <edge source="pauw" target="Van der Steur" id="460" weight="1" />
+      <edge source="pauw" target="Ai!" id="461" weight="1" />
+      <edge source="pauw" target="Raymond Moore" id="462" weight="1" />
+      <edge source="pauw" target="Linda de P6" id="463" weight="1" />
+      <edge source="pauw" target="Klaas Dijkhoff" id="464" weight="1" />
+      <edge source="pauw" target="Robin de Puy" id="465" weight="1" />
+      <edge source="pauw" target="Tim Oliehoek" id="466" weight="1" />
+      <edge source="pauw" target="Chris de Graaf" id="467" weight="1" />
+      <edge source="pauw" target="Tom Dumoulin" id="468" weight="1" />
+      <edge source="pauw" target="Thomas Dekker" id="469" weight="1" />
+      <edge source="pauw" target="SynDROOM" id="470" weight="1" />
+      <edge source="pauw" target="Johnny" id="471" weight="1" />
+      <edge source="pauw" target="Mr. Robot" id="472" weight="1" />
+      <edge source="pauw" target="Corstius" id="473" weight="1" />
+      <edge source="pauw" target="Gijs van Dam" id="474" weight="1" />
+      <edge source="pauw" target="Joyce Roodnat" id="475" weight="1" />
+      <edge source="pauw" target="Cat Smits" id="476" weight="1" />
+      <edge source="pauw" target="Ivonne Leenhouwers" id="477" weight="1" />
+      <edge source="pauw" target="Dionne Stax" id="478" weight="1" />
+      <edge source="pauw" target="Annemiek" id="479" weight="1" />
+      <edge source="pauw" target="Ronald Giphart" id="480" weight="1" />
+      <edge source="pauw" target="Sanne Hans" id="481" weight="1" />
+      <edge source="pauw" target="Ellen DeGeneres" id="482" weight="1" />
+      <edge source="pauw" target="Isaac Asimov" id="483" weight="1" />
+      <edge source="pauw" target="Tommy Wieringa" id="484" weight="1" />
+      <edge source="pauw" target="Asimov" id="485" weight="1" />
+      <edge source="pauw" target="Asibot" id="486" weight="1" />
+      <edge source="pauw" target="Miss Montreal" id="487" weight="1" />
+      <edge source="pauw" target="Klaas Knot" id="488" weight="1" />
+      <edge source="pauw" target="demoliton" id="489" weight="1" />
+      <edge source="Arjen Lubach" target="m" id="490" weight="1" />
+      <edge source="bar laat" target="Victoria Warmerdam" id="491" weight="3" />
+      <edge source="bar laat" target="Victoria" id="492" weight="3" />
+      <edge source="bar laat" target="Nina Gantz" id="493" weight="2" />
+      <edge source="bar laat" target="Henry van Loon" id="494" weight="2" />
+      <edge source="bar laat" target="Kamala Harris" id="495" weight="2" />
+      <edge source="bar laat" target="Elodie Verweij" id="496" weight="2" />
+      <edge source="bar laat" target="Nina" id="497" weight="1" />
+      <edge source="bar laat" target="Thekla Reuten" id="498" weight="1" />
+      <edge source="bar laat" target="Ellen Parren" id="499" weight="1" />
+      <edge source="bar laat" target="Vance" id="500" weight="1" />
+      <edge source="bar laat" target="Prevost" id="501" weight="1" />
+      <edge source="bar laat" target="Helga" id="502" weight="1" />
+      <edge source="bar laat" target="Medvedev" id="503" weight="1" />
+      <edge source="bar laat" target="Joost Eerdmans" id="504" weight="1" />
+      <edge source="bar laat" target="Nora" id="505" weight="1" />
+      <edge source="bar laat" target="Menendez" id="506" weight="1" />
+      <edge source="bar laat" target="Ramsey" id="507" weight="1" />
+      <edge source="bar laat" target="Tulsi Gabbard" id="508" weight="1" />
+      <edge source="bar laat" target="Trent" id="509" weight="1" />
+      <edge source="bar laat" target="Thekla Reuten!" id="510" weight="1" />
+      <edge source="bar laat" target="Lara" id="511" weight="1" />
+      <edge source="bar laat" target="Halina" id="512" weight="1" />
+      <edge source="bar laat" target="Mars" id="513" weight="1" />
+      <edge source="bar laat" target="Ruben Brekelmans" id="514" weight="1" />
+      <edge source="bar laat" target="Lucas" id="515" weight="1" />
+      <edge source="bar laat" target="Arthur Jussen" id="516" weight="1" />
+      <edge source="bar laat" target="Hans Dorrestijn" id="517" weight="1" />
+      <edge source="bar laat" target="Claude Debussy" id="518" weight="1" />
+      <edge source="bar laat" target="Arthur" id="519" weight="1" />
+      <edge source="bar laat" target="Elodie" id="520" weight="1" />
+      <edge source="bar laat" target="Idsinga" id="521" weight="1" />
+      <edge source="bar laat" target="Geert" id="522" weight="1" />
+      <edge source="bar laat" target="Van Oostenbrugge" id="523" weight="1" />
+      <edge source="bar laat" target="Scholz" id="524" weight="1" />
+      <edge source="bar laat" target="Chopin" id="525" weight="1" />
+      <edge source="bar laat" target="Angel" id="526" weight="1" />
+      <edge source="bar laat" target="Claude" id="527" weight="1" />
+      <edge source="bar laat" target="again" id="528" weight="1" />
+      <edge source="bar laat" target="sunny day" id="529" weight="1" />
+      <edge source="bar laat" target="eve" id="530" weight="1" />
+      <edge source="bar laat" target="Kenneth" id="531" weight="1" />
+      <edge source="bar laat" target="Willie" id="532" weight="1" />
+      <edge source="bar laat" target="Noa Johannes" id="533" weight="1" />
+      <edge source="bar laat" target="Hans Jaap Melissen" id="534" weight="1" />
+      <edge source="bar laat" target="Niels van der Laan" id="535" weight="1" />
+      <edge source="bar laat" target="Rachel Rosier" id="536" weight="1" />
+      <edge source="bar laat" target="Dieuwertje Blok" id="537" weight="1" />
+      <edge source="bar laat" target="Niels" id="538" weight="1" />
+      <edge source="bar laat" target="Rachel" id="539" weight="1" />
+      <edge source="bar laat" target="Meneer Timmermans" id="540" weight="1" />
+      <edge source="bar laat" target="Dieuwertje" id="541" weight="1" />
+      <edge source="bar laat" target="Henry" id="542" weight="1" />
+      <edge source="bar laat" target="spoilen" id="543" weight="1" />
+      <edge source="bar laat" target="Ellen" id="544" weight="1" />
+      <edge source="bar laat" target="Paul Verhagen" id="545" weight="1" />
+      <edge source="bar laat" target="Kim van Sparrentak" id="546" weight="1" />
+      <edge source="bar laat" target="Charlie Hebdo" id="547" weight="1" />
+      <edge source="bar laat" target="Meta-baas" id="548" weight="1" />
+      <edge source="bar laat" target="Michiel Romeyn" id="549" weight="1" />
+      <edge source="bar laat" target="Jacob" id="550" weight="1" />
+      <edge source="bar laat" target="Michiel" id="551" weight="1" />
+      <edge source="bar laat" target="Jiskefet" id="552" weight="1" />
+      <edge source="bar laat" target="Sophie" id="553" weight="1" />
+      <edge source="Joost Eerdmans" target="café kockelmann" id="554" weight="1" />
+      <edge source="Ruben Brekelmans" target="café kockelmann" id="555" weight="1" />
+      <edge source="Geert" target="café kockelmann" id="556" weight="1" />
+      <edge source="café kockelmann" target="Dick Schoof" id="557" weight="3" />
+      <edge source="café kockelmann" target="Mona Keijzer" id="558" weight="2" />
+      <edge source="café kockelmann" target="Aleksandr Shabalin" id="559" weight="1" />
+      <edge source="café kockelmann" target="Geoffrey van Leeuwen" id="560" weight="1" />
+      <edge source="café kockelmann" target="Tomahawks" id="561" weight="1" />
+      <edge source="café kockelmann" target="Ursula von der Leyen" id="562" weight="1" />
+      <edge source="café kockelmann" target="Sybrand Buma" id="563" weight="1" />
+      <edge source="café kockelmann" target="Meneer Brekelmans" id="564" weight="1" />
+      <edge source="café kockelmann" target="Peter Wennink" id="565" weight="1" />
+      <edge source="café kockelmann" target="Ingrid Coenradie" id="566" weight="1" />
+      <edge source="café kockelmann" target="Ruud" id="567" weight="1" />
+      <edge source="café kockelmann" target="Jopie" id="568" weight="1" />
+      <edge source="café kockelmann" target="Peter Nieman" id="569" weight="1" />
+      <edge source="café kockelmann" target="Mats Akkerman" id="570" weight="1" />
+      <edge source="café kockelmann" target="Marjolein Faber" id="571" weight="1" />
+      <edge source="café kockelmann" target="Dick Dolman" id="572" weight="1" />
+      <edge source="café kockelmann" target="Janmaat" id="573" weight="1" />
+      <edge source="café kockelmann" target="heer Wilders" id="574" weight="1" />
+      <edge source="café kockelmann" target="Merel Ek van Talpa" id="575" weight="1" />
+      <edge source="café kockelmann" target="David van Weel" id="576" weight="1" />
+      <edge source="café kockelmann" target="Mevrouw Faber" id="577" weight="1" />
+      <edge source="café kockelmann" target="Jorrit Eijbersen" id="578" weight="1" />
+      <edge source="café kockelmann" target="Henri Bontebal" id="579" weight="1" />
+      <edge source="café kockelmann" target="Dassen" id="580" weight="1" />
+      <edge source="café kockelmann" target="Mats" id="581" weight="1" />
+      <edge source="café kockelmann" target="Mario Draghi" id="582" weight="1" />
+      <edge source="café kockelmann" target="Anti-drone" id="583" weight="1" />
+      <edge source="m" target="M!" id="584" weight="2" />
+      <edge source="m" target="Miles Davis" id="585" weight="1" />
+      <edge source="m" target="Prince" id="586" weight="1" />
+      <edge source="m" target="Thijs Boontjes" id="587" weight="1" />
+      <edge source="m" target="Ali B" id="588" weight="1" />
+      <edge source="m" target="Giel" id="589" weight="1" />
+      <edge source="m" target="Ali" id="590" weight="1" />
+      <edge source="m" target="Ali!" id="591" weight="1" />
+      <edge source="m" target="Renate van der Bas en Haro Kraak" id="592" weight="1" />
+    </edges>
+  </graph>
+</gexf>

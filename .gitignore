@@ -12,6 +12,9 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv*
+.venv312
+.venv-py314-broken
 
 # =========================
 # Jupyter
@@ -84,4 +87,7 @@ Thumbs.db
 *.html
 *.exe
 *.xlsx
+
+*.gefx
+
 

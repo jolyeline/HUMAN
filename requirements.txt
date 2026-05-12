@@ -9,4 +9,9 @@ pdfplumber
 selenium
 spacy
 bs4
-
+scipy
+wordcloud
+spacy>=3.7.4
+fuzzywuzzy
+networkx
+pydantic>=1.10,<2.8
